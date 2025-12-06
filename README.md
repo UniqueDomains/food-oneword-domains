@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .FOOD one-word domains still available to buy.
 
-This dataset contains 4,728 .FOOD one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,731 .FOOD one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.FOOD one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=food-oneword-domains&utm_content=description.top) (4,727) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.FOOD one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.food        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.food        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.food      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.food  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.food      | premium   | 43       | 2%     | 5      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.FOOD one word domains
 | abatic.food     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.food    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.food   | available | 50       | 1%     | 8      |           |         |         |
-| abc.food        | available | 102      | 41%    | 3      |           |         |         |
+| abc.food        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.food  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.food  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.food | available | 56       | 1%     | 10     |           |         |         |
