@@ -1,10 +1,10 @@
-# Available .FOOD One-Word Domains (9,498)
+# Available .FOOD One-Word Domains (9,500)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C500%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C498%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C500%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .food one-word domains from Unique
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,500 rows · **Live catalog:** 9,498 domains
+**Public extract:** 9,500 rows · **Live catalog:** 9,500 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/food`  
 **Best for:** founders, investors, studios
 
@@ -64,11 +64,11 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| wizard.food     | available | $48.98    | —             | 118            | 46     | 6      | namecheap       |
+| wizard.food     | available | $48.98    | —             | 118            | 43     | 6      | namecheap       |
 | dragon.food     | resell    | —         | —             | 78             | 48     | 6      | Porkbun LLC     |
 | converse.food   | premium   | $455      | $650          | 64             | 73     | 8      | namecheap       |
 | everyday.food   | available | $48.98    | —             | 84             | 36     | 8      | namecheap       |
-| only.food       | resell    | —         | —             | 110            | 47     | 4      | GoDaddy         |
+| only.food       | resell    | —         | —             | 110            | 46     | 4      | GoDaddy         |
 | nationwide.food | premium   | $455      | $650          | 76             | 66     | 10     | namecheap       |
 | aaron.food      | available | $48.98    | —             | 88             | 35     | 5      | namecheap       |
 | secret.food     | resell    | —         | —             | 112            | 44     | 6      | Spaceship, Inc. |
@@ -80,10 +80,10 @@ print(df.head())
 | clever.food     | resell    | —         | —             | 74             | 38     | 6      | Dynadot, LLC    |
 | cloud.food      | premium   | $325      | $650          | 70             | 59     | 5      | namecheap       |
 | progress.food   | available | $48.98    | —             | 82             | 34     | 8      | namecheap       |
-| artificial.food | resell    | —         | —             | 68             | 38     | 10     | GoDaddy         |
+| impossible.food | resell    | —         | —             | 74             | 37     | 10     | Dynadot, LLC    |
 | ace.food        | premium   | $455      | $650          | 88             | 57     | 3      | namecheap       |
 | statistics.food | available | $48.98    | —             | 60             | 34     | 10     | namecheap       |
-| impossible.food | resell    | —         | —             | 74             | 37     | 10     | Dynadot, LLC    |
+| artificial.food | resell    | —         | —             | 68             | 37     | 10     | GoDaddy         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,500-row public sample | 9,498 live domains                               |
+| 9,500-row public sample | 9,500 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOOD One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOOD One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
