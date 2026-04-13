@@ -71,15 +71,15 @@ print(df.head())
 | only.food       | resell    | —         | —             | 110            | 46     | 4      | GoDaddy         |
 | nationwide.food | premium   | $455      | $650          | 76             | 66     | 10     | namecheap       |
 | aaron.food      | available | $48.98    | —             | 88             | 35     | 5      | namecheap       |
-| secret.food     | resell    | —         | —             | 112            | 44     | 6      | Spaceship, Inc. |
+| secret.food     | resell    | —         | —             | 112            | 45     | 6      | Spaceship, Inc. |
 | power.food      | premium   | $1,300    | $2,600        | 98             | 62     | 5      | namecheap       |
-| hidden.food     | available | $48.98    | —             | 65             | 35     | 6      | namecheap       |
+| account.food    | available | $48.98    | —             | 98             | 34     | 7      | namecheap       |
 | learning.food   | resell    | —         | —             | 76             | 39     | 8      | Dynadot, LLC    |
 | seventeen.food  | premium   | $455      | $650          | 84             | 62     | 9      | namecheap       |
-| account.food    | available | $48.98    | —             | 98             | 34     | 7      | namecheap       |
+| progress.food   | available | $48.98    | —             | 82             | 34     | 8      | namecheap       |
 | clever.food     | resell    | —         | —             | 74             | 38     | 6      | Dynadot, LLC    |
 | cloud.food      | premium   | $325      | $650          | 70             | 59     | 5      | namecheap       |
-| progress.food   | available | $48.98    | —             | 82             | 34     | 8      | namecheap       |
+| hidden.food     | available | $48.98    | —             | 65             | 34     | 6      | namecheap       |
 | impossible.food | resell    | —         | —             | 74             | 37     | 10     | Dynadot, LLC    |
 | ace.food        | premium   | $455      | $650          | 88             | 57     | 3      | namecheap       |
 | statistics.food | available | $48.98    | —             | 60             | 34     | 10     | namecheap       |
