@@ -427,6 +427,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 271c955c-6353-41b2-a546-1587ecd6b59a,enlightenment.food,available,39.99,,62,18,13,name.com,,
 2728a662-9f8e-451e-8c1e-00f5d73faa86,echoes.food,available,5.49,39.99,56,24,6,namesilo,,
 272d8384-10dc-4b84-a559-4ad748f76df2,getunder.food,available,39.99,,54,1,9,name.com,,
+273a612d-7af1-48c8-9cf2-9613dfd999fa,tshirt.food,premium,,,80,25,7,,,
 275f8489-dada-4737-bef1-8de3db522357,makesout.food,available,5.49,39.99,56,1,9,namesilo,,
 277ba659-ebe9-414e-8d68-16c085d27149,breeds.food,available,5.49,39.99,60,4,6,namesilo,,
 27b6b5ca-f9bc-4b92-b8db-1b27fc7fa7f9,organisations.food,available,5.49,39.99,52,3,13,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58e9235d-8d57-4119-9a9f-acbb8d036540,takeabreak.food,available,39.99,,86,8,12,name.com,,
 58f0556e-b350-441e-8669-48c5d3cda40b,nothanksto.food,available,39.99,,58,0,12,name.com,,
 5903cb51-0b38-492f-b19c-8212e744f979,getwiththeprogram.food,available,39.99,,69,2,20,name.com,,
-5920eaed-3213-47a3-99e2-d10211d602e3,letusgo.food,available,39.99,,57,4,9,name.com,,
