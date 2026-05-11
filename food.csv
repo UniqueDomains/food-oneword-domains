@@ -414,6 +414,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 256dfed7-6eaf-4dcb-a4cb-ed310c942316,mainlines.food,available,5.49,39.99,52,2,10,namesilo,,
 25bf5e2e-5c11-4bca-950e-a51f923e2a5d,daydreams.food,available,5.49,39.99,62,10,9,namesilo,,
 25f023c1-49c0-45a4-aa89-2d276ea0aa04,continentalplate.food,available,39.99,,42,1,17,name.com,,
+25f8234d-7450-4ae0-b5e5-c3cdc27f67ea,inspirational.food,premium,,,78,10,13,,,
 25fea824-9a7d-48f3-9059-ab6f4bb6b7e5,Ihaveatoothache.food,available,48.98,,50,1,18,namecheap,,
 26132959-8cbd-47c8-9712-28d2e297fa09,worldsapart.food,available,39.99,,64,3,12,name.com,,
 2631d7ca-93ae-4cd4-ab12-3d31bd135e86,officedoor.food,available,39.99,,55,1,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58e85e83-e20a-46cd-bca8-4ea54f313c00,backtofront.food,available,39.99,,46,3,13,name.com,,
 58e9235d-8d57-4119-9a9f-acbb8d036540,takeabreak.food,available,39.99,,86,8,12,name.com,,
 58f0556e-b350-441e-8669-48c5d3cda40b,nothanksto.food,available,39.99,,58,0,12,name.com,,
-5903cb51-0b38-492f-b19c-8212e744f979,getwiththeprogram.food,available,39.99,,69,2,20,name.com,,
