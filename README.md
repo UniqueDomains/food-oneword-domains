@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .food one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,453 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,453 domains · **Median ask:** $113.83 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,453 domains · **Median ask:** $163.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/food`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/food`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FOOD one-word domain 
 
 ### Files
 
-- `food.csv` — public CSV extract (1,000 rows)
-- `food.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `food.csv`, public CSV extract (1,000 rows)
+- `food.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| neuroscience.food | available | $39.99    | —             | 80             | 37     | 12     | name.com  |
-| travelers.food    | premium   | $490      | $700          | 58             | 61     | 9      | namecheap |
-| popup.food        | available | $39.99    | —             | 84             | 28     | 6      | name.com  |
-| RedSox.food       | premium   | $490      | $700          | 72             | 60     | 7      | namecheap |
-| commonground.food | available | $39.99    | —             | 74             | 28     | 13     | name.com  |
-| regions.food      | premium   | $490      | $700          | 64             | 59     | 7      | namecheap |
-| backyard.food     | available | $39.99    | —             | 80             | 27     | 9      | name.com  |
-| farmers.food      | premium   | $490      | $700          | 54             | 59     | 7      | namecheap |
-| destination.food  | available | $39.99    | —             | 90             | 24     | 11     | name.com  |
-| agents.food       | premium   | $980      | $1,400        | 56             | 50     | 6      | namecheap |
-| Trex.food         | available | $48.98    | —             | 80             | 24     | 5      | namecheap |
-| Tools.food        | premium   | $490      | $700          | 56             | 40     | 5      | namecheap |
-| echoes.food       | available | $5.49     | $39.99        | 56             | 24     | 6      | namesilo  |
-| justin.food       | premium   | $490      | $700          | 58             | 38     | 7      | namecheap |
-| rekt.food         | available | $39.99    | —             | 40             | 24     | 4      | name.com  |
-| homes.food        | premium   | $490      | $700          | 86             | 34     | 5      | namecheap |
-| motorsport.food   | available | $39.99    | —             | 74             | 23     | 10     | name.com  |
-| slots.food        | premium   | $1,960    | $2,800        | 49             | 31     | 5      | namecheap |
-| designs.food      | available | $39.99    | —             | 72             | 21     | 7      | name.com  |
-| spaces.food       | premium   | $490      | $700          | 54             | 30     | 6      | namecheap |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| camo.food       | available | $5.49     | $39.99        | high           | low    | 4      | namesilo        |
+| clever.food     | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC    |
+| ace.food        | premium   | $455      | $650          | high           | medium | 3      | namecheap       |
+| Leia.food       | available | $5.49     | $39.99        | high           | low    | 4      | namesilo        |
+| factor.food     | resell    | —         | —             | medium         | low    | 6      | Spaceship, Inc. |
+| any.food        | premium   | $980      | $1,400        | high           | medium | 3      | namecheap       |
+| Liam.food       | available | $5.49     | $39.99        | high           | low    | 4      | namesilo        |
+| robotic.food    | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
+| art.food        | premium   | $1,300    | $2,600        | high           | medium | 3      | namecheap       |
+| aftuh.food      | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo        |
+| artificial.food | resell    | —         | —             | medium         | low    | 10     | GoDaddy         |
+| bae.food        | premium   | $980      | $1,400        | high           | low    | 3      | namecheap       |
+| Eddie.food      | available | $5.49     | $39.99        | high           | low    | 5      | namesilo        |
+| bar.food        | premium   | $490      | $700          | high           | low    | 3      | namecheap       |
+| Gregg.food      | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo        |
+| bow.food        | premium   | $980      | $1,400        | high           | low    | 3      | namecheap       |
+| inon.food       | available | $39.99    | —             | medium         | low    | 5      | name.com        |
+| cup.food        | premium   | $980      | $1,400        | high           | low    | 3      | namecheap       |
+| means.food      | available | $39.99    | —             | high           | low    | 5      | name.com        |
+| dad.food        | premium   | $980      | $1,400        | high           | low    | 3      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .food extension. The set ranges from descriptive terms like nutritious.food to more abstract words like anagram.food and affect.food. That mix matters. Founders should favor names that are easy to say, easy to spell, and closely aligned with the product or audience. Investors should focus on entry price, renewal fit, and whether the word has broad commercial use inside food, beverage, nutrition, retail, or media. When comparing these domains, check whether the keyword creates instant category clarity or feels forced with .food. Also screen for trademark exposure, awkward semantics, and words that may narrow future brand expansion.
+This list covers 12,453 one-word .FOOD domain names, each built from a single continuous string without hyphens or numbers. The median asking price sits near $164, keeping most of these domains within reach for founders shortlisting a brandable name and for investors comparing acquisition cost against renewal. Names in this set span food brands, recipes, ingredients, and lifestyle themes, making the category broad enough for a wide range of food-related ventures. When comparing these domains, weigh word clarity, spelling ease, and renewal cost alongside relevance to your specific niche within food.
 
-- Favor words that read naturally with .food
-- Median ask is 113.83 across this selection
-- Check trademark risk before valuing brandability
-- Broad food relevance usually beats obscure wording
+- 12,453 one-word .FOOD domains across food, recipe & lifestyle themes
+- Median asking price near $164 — budget-friendly for most buyers
+- No hyphens or numbers — clean, brandable, one-word strings only
+- Compare pricing and renewal costs before you commit to a name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOOD One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOOD One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
