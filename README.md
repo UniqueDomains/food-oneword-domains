@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .food one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,337 domains · **Median ask:** $113.30 · **High-demand under $2,500:** 46
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/food`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| half.food       | premium   | $245      | $350          | high           | low    | 4      | namecheap       |
+| yes.food        | premium   | $980      | $1,400        | high           | medium | 3      | namecheap       |
 | camo.food       | available | $5.49     | $39.99        | high           | low    | 4      | namesilo        |
 | clever.food     | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC    |
 | abo.food        | premium   | $910      | $1,300        | low            | low    | 3      | namecheap       |
@@ -82,8 +84,6 @@ print(df.head())
 | bae.food        | premium   | $980      | $1,400        | high           | low    | 3      | namecheap       |
 | Eddie.food      | available | $5.49     | $39.99        | high           | low    | 5      | namesilo        |
 | bar.food        | premium   | $490      | $700          | high           | low    | 3      | namecheap       |
-| Gregg.food      | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo        |
-| bow.food        | premium   | $980      | $1,400        | high           | low    | 3      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOOD One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOOD One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
