@@ -1,10 +1,10 @@
-# Available .FOOD One-Word Domains (30,286)
+# Available .FOOD One-Word Domains (32,066)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C286%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C066%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .food one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,286 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,066 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,286 domains · **Median ask:** $85.75 · **High-demand under $2,500:** 44
+**Public extract:** 1,000 rows · **Live catalog:** 32,066 domains · **Median ask:** $86.62 · **High-demand under $2,500:** 39
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/food`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| yes.food        | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo        |
+| cheeses.food    | available | $5.49     | $39.99        | high           | low    | 7      | namesilo        |
+| half.food       | premium   | $245      | $350          | high           | low    | 4      | namecheap       |
 | camo.food       | available | $5.49     | $39.99        | high           | low    | 4      | namesilo        |
 | clever.food     | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC    |
 | abo.food        | premium   | $910      | $1,300        | low            | low    | 3      | namecheap       |
 | leia.food       | available | $5.49     | $39.99        | high           | low    | 4      | namesilo        |
 | factor.food     | resell    | —         | —             | medium         | low    | 6      | Spaceship, Inc. |
-| ace.food        | premium   | $455      | $650          | high           | medium | 3      | namecheap       |
+| ace.food        | premium   | $640      | $640          | medium         | low    | 3      | namesilo        |
 | liam.food       | available | $5.49     | $39.99        | high           | low    | 4      | namesilo        |
-| robotic.food    | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
-| any.food        | premium   | $980      | $1,400        | high           | medium | 3      | namecheap       |
+| robotic.food    | resell    | —         | —             | low            | low    | 7      | Spaceship, Inc. |
+| any.food        | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo        |
 | lxvi.food       | available | $4.98     | $48.98        | low            | low    | 4      | namecheap       |
 | artificial.food | resell    | —         | —             | medium         | low    | 10     | GoDaddy         |
 | arc.food        | premium   | $455      | $650          | medium         | medium | 3      | namecheap       |
 | xlvi.food       | available | $4.98     | $48.98        | low            | low    | 4      | namecheap       |
-| art.food        | premium   | $1,820    | $2,600        | medium         | low    | 3      | namecheap       |
+| art.food        | premium   | $2,660    | $2,660        | medium         | low    | 3      | namesilo        |
 | aftuh.food      | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo        |
 | bae.food        | premium   | $980      | $1,400        | high           | low    | 3      | namecheap       |
 | eddie.food      | available | $5.49     | $39.99        | high           | low    | 5      | namesilo        |
-| bar.food        | premium   | $490      | $700          | high           | low    | 3      | namecheap       |
-| gregg.food      | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo        |
-| bow.food        | premium   | $980      | $1,400        | high           | low    | 3      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,286 live domains                        |
+| 1,000-row public sample | 32,066 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 44 high-demand names under $2,500          |
+| Basic exported fields   | 39 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOOD One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOOD One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
