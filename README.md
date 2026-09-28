@@ -1,10 +1,10 @@
-# Available .FOOD One-Word Domains (24,268)
+# Available .FOOD One-Word Domains (24,833)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C268%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C833%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .food one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,268 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,833 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,268 domains · **Median ask:** $136.61 · **High-demand under $2,500:** 81
+**Public extract:** 1,000 rows · **Live catalog:** 24,833 domains · **Median ask:** $136.80 · **High-demand under $2,500:** 86
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/food`
@@ -69,18 +69,18 @@ print(df.head())
 | acc.food       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo     |
 | byrd.food      | available | $5.49     | $39.99        | high           | low    | 4      | namesilo     |
 | adventist.food | resell    | —         | —             | high           | low    | 9      | Dynadot, LLC |
-| bot.food       | premium   | $910      | $1,300        | high           | medium | 3      | namecheap    |
+| bot.food       | premium   | $724.70   | $1,035.20     | high           | medium | 3      | spaceship    |
 | capt.food      | available | $5.49     | $39.99        | high           | low    | 4      | namesilo     |
 | cxl.food       | premium   | $227.50   | $325          | high           | low    | 3      | namecheap    |
-| jody.food      | available | $39.99    | —             | high           | low    | 4      | name.com     |
-| egg.food       | premium   | $490      | $700          | high           | low    | 3      | namecheap    |
 | tues.food      | available | $5.49     | $39.99        | high           | low    | 4      | namesilo     |
-| gag.food       | premium   | $980      | $1,400        | high           | low    | 3      | namecheap    |
+| egg.food       | premium   | $490      | $700          | high           | low    | 3      | namecheap    |
 | abdul.food     | available | $5.49     | $39.99        | high           | low    | 5      | namesilo     |
-| git.food       | premium   | $910      | $1,300        | high           | medium | 3      | namecheap    |
+| gag.food       | premium   | $980      | $1,400        | high           | low    | 3      | namecheap    |
 | alcea.food     | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo     |
-| got.food       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo     |
+| git.food       | premium   | $910      | $1,300        | high           | medium | 3      | namecheap    |
 | annon.food     | available | $4.98     | $48.98        | medium         | low    | 5      | namecheap    |
+| got.food       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo     |
+| aston.food     | available | $4.99     | $32.32        | high           | low    | 5      | dynadot      |
 | gyp.food       | premium   | $910      | $1,300        | medium         | low    | 3      | namecheap    |
 | bandy.food     | available | $4.98     | $48.98        | medium         | low    | 5      | namecheap    |
 | hua.food       | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo     |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,268 live domains                        |
+| 1,000-row public sample | 24,833 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 81 high-demand names under $2,500          |
+| Basic exported fields   | 86 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
