@@ -12,15 +12,17 @@ d311374a-96fb-4e3e-9088-131173486a29,motorcycles.food,premium,362.45,517.7,mediu
 5363254f-c4ad-4211-9d06-47531114b313,improvise.food,available,5.49,39.99,high,low,9,namesilo,,,21/09/2026 16:45
 62567a7a-198c-4669-ae4b-683bd4f74063,drumhead.food,available,4.98,48.98,medium,low,8,namecheap,,,14/08/2026 20:15
 18c52dde-6872-4812-9d71-a3679b0f237f,valdez.food,premium,110,110,medium,low,6,dynadot,,,28/09/2026 20:43
-242bbc9d-cee4-446c-9928-78a6485addeb,cleanup.food,available,4.98,48.98,high,low,7,namecheap,,,12/08/2026 10:26
+242bbc9d-cee4-446c-9928-78a6485addeb,cleanup.food,available,4.35,31.25,medium,low,7,spaceship,,,02/10/2026 21:28
 8fc5c88b-14ef-4f62-837d-1435e5f367cb,rusty.food,available,4.98,48.98,high,low,5,namecheap,,,04/09/2026 18:46
 9c76f943-7cd8-453a-b5ef-2f5ad8f2ad9b,montaigne.food,available,4.98,48.98,high,low,9,namecheap,,,30/09/2026 18:02
 cb4c3a08-befd-4706-b275-c04979f3ec83,binnacle.food,available,5.49,39.99,medium,low,8,namesilo,,,23/09/2026 17:36
 85b4a1c0-0a03-4526-bc96-575e42b3d721,erwin.food,premium,640,640,high,low,5,namesilo,,,27/09/2026 01:41
 b182d05d-acc3-43b7-825a-90398e8eabce,inhibit.food,available,5.49,39.99,high,low,7,namesilo,,,30/09/2026 16:14
 744a9621-ed83-4597-9b3b-d3742d21cca2,malian.food,available,4.98,48.98,high,low,6,namecheap,,,24/08/2026 14:00
+ced03f07-79c4-4ba4-91ef-b4b591c86c9b,kenwood.food,premium,455,650,high,medium,7,namecheap,,,02/10/2026 20:54
 704b2e82-6f9e-40c3-88fb-4e520083c05f,feminine.food,available,4.98,48.98,high,low,8,namecheap,,,24/09/2026 17:35
 a81de449-14ce-4715-9c50-f61ca1d3b8ff,expertly.food,available,4.98,48.98,high,low,8,namecheap,,,14/09/2026 17:05
+bd5bc527-5cbc-4dd8-b8a3-9bffbacc31e7,jesuits.food,available,5.49,39.99,medium,low,7,namesilo,,,02/10/2026 13:21
 a064e6e9-336d-4685-98e5-d31f911da996,barbican.food,premium,640,640,medium,low,8,namesilo,,,22/09/2026 04:18
 3c396966-5c66-4b3e-ac43-15361792b1df,sparked.food,available,4.35,31.25,high,low,7,spaceship,,,30/09/2026 04:13
 c6e75dd0-30d8-4c23-b2ea-86d2afbc8631,meekly.food,available,4.98,48.98,medium,low,6,namecheap,,,15/09/2026 01:24
@@ -42,6 +44,7 @@ e2e6d2a7-de5b-41be-962a-84a4d49fbaf6,unlit.food,premium,91,130,medium,low,5,name
 e40bf7b5-6a2e-4b7a-b22c-d4ca6155620b,manson.food,available,0.99,59.99,high,low,6,godaddy,,,28/09/2026 02:18
 32d29779-4478-41cf-a292-460fcd8950c1,observed.food,available,5.49,39.99,high,low,8,namesilo,,,22/09/2026 09:25
 b7aae213-a39e-4856-9fe1-12b13110128e,fertilizer.food,available,4.35,31.25,high,low,10,spaceship,,,29/09/2026 06:53
+17dd56c4-009e-4596-9e87-979eff8b10ac,mott.food,premium,273.44,273.44,high,low,4,porkbun,,,02/10/2026 16:02
 fe8caa62-6d6d-4b41-b122-40a728a9f65b,trembling.food,available,4.98,48.98,high,medium,9,namecheap,,,10/09/2026 06:41
 cdee4ffb-a494-4588-ab61-389b3f102439,anklebone.food,available,5.49,39.99,medium,low,9,namesilo,,,19/09/2026 09:43
 dc3e4113-d316-4869-a79e-c69d8a0e9bb5,lets.food,premium,227.5,325,high,low,4,namecheap,,,18/09/2026 18:55
@@ -49,6 +52,7 @@ dc3e4113-d316-4869-a79e-c69d8a0e9bb5,lets.food,premium,227.5,325,high,low,4,name
 c52c7894-2219-4ae6-a339-26083d005295,missiles.food,available,4.99,32.32,low,low,8,dynadot,,,28/09/2026 00:20
 cb774696-9281-4f08-9ed8-73c860ca7314,whether.food,available,4.35,31.25,high,low,7,spaceship,,,30/09/2026 22:27
 bcb09f3a-e037-43b7-b5a4-447f6331b491,peel.food,premium,273.44,273.44,high,low,4,porkbun,,,30/09/2026 06:31
+2374cefa-f8d0-4dbf-a4f3-97cce88bb759,quicksand.food,available,4.35,31.25,high,low,9,spaceship,,,03/10/2026 01:52
 b4bc920b-7e0e-4a39-a54f-ac547a5e67c6,manuals.food,available,5.49,39.99,medium,low,7,namesilo,,,20/09/2026 09:33
 013c9082-b793-47f9-a1fd-24dc317fafd9,soho.food,premium,362.45,517.7,high,low,4,spaceship,,,01/10/2026 03:44
 0c6f7745-7d85-407a-877d-61ba65df3964,fitfully.food,available,4.98,48.98,medium,low,8,namecheap,,,14/09/2026 18:43
@@ -69,11 +73,14 @@ c9e1add2-bebc-4aaf-aaae-e5ca1d32dd03,gst.food,premium,362.45,517.7,medium,low,3,
 7601e12b-aa6b-4824-aabf-9d5ba2e2d0fd,motivational.food,available,30.2,30.2,high,low,12,cloudflare,,,30/09/2026 12:17
 6d63f959-876f-4249-8ef1-54045b601d0e,zimmerman.food,available,5.49,39.99,high,low,9,namesilo,,,27/09/2026 20:41
 93cff8b3-e16f-4f5a-af1f-7951ad0e5c14,dates.food,premium,2660,2660,medium,low,5,namesilo,,,18/09/2026 18:40
+28f571a9-52e4-4fc6-a539-4216dc5b10dc,mlc.food,premium,181.33,258.95,high,medium,3,spaceship,,,02/10/2026 18:10
 f3be8724-8b03-4b77-bb0f-b499fc175521,mosher.food,available,4.35,31.25,medium,low,6,spaceship,,,01/10/2026 23:17
 e5a9d13c-d452-4679-87a1-1b97c5d4b003,intriguing.food,available,5.49,39.99,high,low,10,namesilo,,,25/09/2026 10:52
 5e00c940-bc6f-467e-8fdc-72775c21179b,andiron.food,available,5.49,39.99,medium,low,7,namesilo,,,19/09/2026 04:06
+9bad519c-1845-4649-836d-6b19cbde7146,pocatello.food,available,30.2,30.2,medium,low,9,cloudflare,,,03/10/2026 01:48
 ba525bfd-b90a-4240-ab0c-2ea562c7d5c0,delusory.food,available,4.98,48.98,low,low,8,namecheap,,,13/08/2026 21:18
 31123cb3-3c3a-472d-8f83-c32b9688d794,bratislava.food,premium,640,640,medium,low,10,namesilo,,,28/09/2026 13:35
+d19472b5-743d-483f-89c2-46e1f5ea0e0d,recollect.food,available,4.35,31.25,high,low,9,spaceship,,,02/10/2026 16:32
 db6b7e89-f9f1-4160-a0bd-c9bd93ca22be,jocose.food,available,4.98,48.98,medium,low,6,namecheap,,,22/08/2026 12:54
 ee52c8af-7668-483b-a72d-d95c63884c5b,raptorial.food,available,4.98,48.98,high,medium,9,namecheap,,,09/09/2026 10:23
 70b66129-6976-49e6-b0a1-ce2a24ec8d7d,epilepsy.food,available,0.99,59.99,high,low,8,godaddy,,,30/09/2026 01:32
@@ -85,10 +92,13 @@ acd1dd62-01f5-4ebc-9d60-ea98881070ee,dyke.food,premium,227.5,325,medium,low,4,na
 fe7b8f14-59f0-45a8-a187-3a0d31ff78b7,latticed.food,available,4.98,48.98,medium,low,8,namecheap,,,22/08/2026 08:06
 d9460795-4ea4-47fb-9396-ad63c5bf77e2,mtn.food,premium,362.45,517.7,high,medium,3,spaceship,,,01/10/2026 07:21
 4420a0ce-fd08-4f44-af90-63ad30f30ff5,nsw.food,premium,275,275,high,low,3,dynadot,,,28/09/2026 10:31
+de19ad10-674b-4eff-a97b-a56db1376d45,edgewater.food,premium,640,640,medium,low,9,namesilo,,,02/10/2026 11:00
 a2ec4299-baa8-4a2e-9376-e45f7faa4945,namespace.food,available,4.99,32.32,high,low,9,dynadot,,,01/10/2026 22:53
+8d663b59-2cad-4fc0-8596-3fd1a20886d6,kaliningrad.food,available,4.35,31.25,medium,low,11,spaceship,,,02/10/2026 19:35
 da4230b0-ddd6-43ba-bcf9-0afd6386da49,this.food,premium,302.5,302.5,high,medium,4,namesilo,,,30/09/2026 22:01
 97c04fce-7e0f-4619-afc9-892d98da5f0e,squashed.food,available,4.98,48.98,medium,low,8,namecheap,,,10/09/2026 17:31
 3cc9a353-c243-4219-9448-c8b9fe87e85a,reasoning.food,available,4.98,48.98,high,low,9,namecheap,,,09/09/2026 11:10
+3f0fa14f-2b90-48e2-acc9-8a2768b8343e,ouch.food,premium,181.33,258.95,medium,low,4,spaceship,,,02/10/2026 06:49
 7650a242-887d-4eb8-b097-0894be3c63fe,somehow.food,available,4.35,31.25,medium,low,7,spaceship,,,28/09/2026 15:41
 33594a8c-994b-4791-8283-91e846fbe975,tractor.food,available,4.35,31.25,high,low,7,spaceship,,,28/09/2026 11:01
 b16a64f5-44be-4b64-93e7-2e370055dad9,javanese.food,available,4.98,48.98,high,low,8,namecheap,,,22/08/2026 12:28
@@ -112,6 +122,7 @@ bdf5d0e9-5b98-425b-b5de-34390f0e6a96,belonged.food,available,5.49,39.99,medium,l
 29a0f4af-8a83-468a-afdc-db787c663fdb,premature.food,available,4.98,48.98,high,medium,9,namecheap,,,09/09/2026 01:39
 bc887d57-eb38-4cd8-b771-ae20fa272f44,scotland.food,premium,362.45,517.7,high,low,8,spaceship,,,27/09/2026 15:44
 da901de7-3b55-4134-a5a8-9d0a7744506e,sight.food,premium,91,130,high,low,5,namecheap,,,25/09/2026 20:56
+62883cb4-9b9e-4708-9fe6-f3f3bf9801bf,permissible.food,available,30.2,30.2,high,low,11,cloudflare,,,02/10/2026 06:54
 a198e515-019b-4fbe-87b8-867e9bedb745,flawlessly.food,available,4.98,48.98,medium,low,10,namecheap,,,12/08/2026 10:23
 15d5bdcc-261e-4d0d-87e6-baeb1918cef2,chalk.food,premium,72.65,103.7,high,low,5,spaceship,,,28/09/2026 05:27
 9873a6dc-40cd-44da-9cca-54d420e8510c,bernini.food,available,5.49,39.99,high,low,7,namesilo,,,23/09/2026 09:56
@@ -122,7 +133,7 @@ f657020a-95e6-41e2-8d6e-be1b27dee2ca,acquitted.food,available,4.98,48.98,medium,
 e066dde3-4a5d-40d2-8c92-09e9fb0e3e11,retaining.food,available,4.35,31.25,high,low,9,spaceship,,,30/09/2026 04:00
 cfcaf6c0-bff3-4757-80b1-14228f1d45b7,sigmund.food,available,4.98,48.98,medium,low,7,namecheap,,,28/09/2026 11:40
 622fa6b1-1992-4e2e-9e68-7d2f2c2c6251,kwame.food,available,4.63,31.41,medium,low,5,porkbun,,,01/10/2026 23:56
-8db25d56-9154-48ce-a614-1a49bb24d093,subjects.food,available,5.49,39.99,medium,low,8,namesilo,,,
+8db25d56-9154-48ce-a614-1a49bb24d093,subjects.food,available,4.35,31.25,medium,low,8,spaceship,,,02/10/2026 15:43
 362f8f98-af6c-448d-8fb9-0477b18b6828,moses.food,available,5.49,39.99,high,low,5,namesilo,,,19/09/2026 10:00
 44633943-5921-4331-86ec-fac66d89c5a6,salle.food,premium,,,high,low,5,,,,01/10/2026 05:06
 1c40da83-9ee2-40a3-b852-53ddeb01311d,dedicated.food,available,39.99,59.99,high,low,9,name.com,,,23/09/2026 20:41
@@ -133,6 +144,7 @@ fdb3b89d-ce51-4ab8-a093-927ed746eda0,usd.food,premium,302.5,302.5,high,low,3,nam
 8a23f4c8-77b4-4bd4-b1c5-832fe2162827,lacy.food,premium,227.5,325,medium,low,4,namecheap,,,22/08/2026 17:47
 fabdf25c-a035-49ce-9adc-8915be749495,kane.food,premium,302.5,302.5,high,low,4,namesilo,,,27/09/2026 07:59
 b5df7e86-0eb0-4f96-a732-d6a9f1a06912,simmons.food,premium,,,medium,low,7,,,,28/09/2026 07:47
+58602c26-5013-4ad5-bfd7-d1cf035fcaa9,msnbc.food,available,4.35,31.25,high,low,5,spaceship,,,02/10/2026 10:38
 206a222c-8573-4b09-805b-dc5f4c0faee6,seniors.food,premium,2200,2200,medium,low,7,dynadot,,,29/09/2026 05:13
 0f366127-f395-4620-a316-fe738f9332fa,jural.food,premium,91,130,medium,low,5,namecheap,,,22/08/2026 14:34
 4cd8f93c-27e5-4509-b8cb-4ec184adcf14,furious.food,available,4.98,48.98,high,low,7,namecheap,,,
@@ -161,8 +173,10 @@ b84ab53c-3902-4cac-a327-39e64bca3573,aleppo.food,premium,116,116,high,low,6,name
 8c6f4dcf-6f86-4525-ae38-7644ea0690e6,protects.food,available,5.49,39.99,medium,low,8,namesilo,,,29/09/2026 00:03
 08388c2c-006e-47e2-8e8e-8bd8fe8a3b14,skilled.food,available,5.49,39.99,high,low,7,namesilo,,,27/09/2026 22:20
 2be41da0-bd67-451e-b025-f820d32604b8,saccadic.food,available,4.98,48.98,high,medium,8,namecheap,,,09/09/2026 20:35
+b3b7937e-97ff-46dd-add1-41095f995063,glock.food,available,30.2,30.2,high,low,5,cloudflare,,,02/10/2026 18:32
 522d0947-d589-4e0f-8e31-fee48d4d0d5f,unwanted.food,available,4.98,48.98,high,low,8,namecheap,,,12/09/2026 07:48
 3ad5daf0-2af4-4eae-90f4-80d2d1e1cb7a,travers.food,available,4.35,31.25,medium,low,7,spaceship,,,28/09/2026 16:18
+0f8d9c1b-9220-4469-91f4-1818df013229,extinguish.food,available,30.2,30.2,high,low,10,cloudflare,,,02/10/2026 06:41
 dcc5c4aa-ecfc-429d-98bf-e5b3af506cc4,callable.food,available,4.98,48.98,medium,low,8,namecheap,,,11/08/2026 14:26
 fc826474-2527-41ce-b25e-16446bea69e2,rows.food,premium,181.33,258.95,medium,low,4,spaceship,,,29/09/2026 10:22
 d50535fd-f7e4-4959-ae0b-aede4069e467,enhancement.food,available,4.35,31.25,high,low,11,spaceship,,,30/09/2026 23:26
@@ -202,14 +216,18 @@ ff189000-6ce6-4067-93ad-641e097dc968,citizen.food,premium,362.45,517.7,high,low,
 b1e9f637-1c68-41d0-804f-39e352da7876,alarms.food,available,4.98,48.98,medium,low,6,namecheap,,,30/09/2026 07:16
 287168fa-4523-4f45-abc4-65ea9b54934a,versus.food,premium,550,550,high,low,6,dynadot,,,27/09/2026 17:11
 847d885e-4fee-432f-8f82-e09582f54b50,squealer.food,available,5.49,39.99,medium,low,8,namesilo,,,23/09/2026 11:32
+96d10aac-0f6f-4a76-83e7-f0666615fdbb,tavares.food,available,4.35,31.25,medium,low,7,spaceship,,,02/10/2026 20:29
 20e02963-7d52-4690-b26d-e757ceddce82,vexation.food,available,4.98,48.98,medium,low,8,namecheap,,,
-cac3a376-be71-4a3d-a1e7-65532fcda81b,businesslike.food,available,5.49,39.99,medium,low,12,namesilo,,,29/09/2026 02:32
+cac3a376-be71-4a3d-a1e7-65532fcda81b,businesslike.food,available,4.35,31.25,medium,low,12,spaceship,,,02/10/2026 10:46
+bb29781d-d8cb-447c-9b59-5d8a6fc77828,synonym.food,available,4.35,31.25,high,low,7,spaceship,,,03/10/2026 00:41
 260e99ca-57e7-4cb0-a182-aaf5894cf9a2,address.food,available,5.49,39.99,high,low,7,namesilo,,,01/10/2026 16:50
+74bd8d3f-68bc-4013-9516-90e99eccfd71,patriarch.food,available,4.35,31.25,high,low,9,spaceship,,,02/10/2026 16:20
 90e9369a-12c0-4ecc-bd5a-5aed54af4780,past.food,premium,302.5,302.5,high,low,4,namesilo,,,27/09/2026 02:57
 896be4ad-b42e-4aaa-8386-bb488e5b5b96,heap.food,premium,227.5,325,high,low,4,namecheap,,,25/08/2026 00:28
 13b80f25-1b7e-4b13-8145-12828ea5c508,soundproof.food,available,4.98,48.98,high,medium,10,namecheap,,,10/09/2026 14:44
 cbf814ae-8ec3-4aff-a8ed-35abd0a81ba1,guinness.food,premium,640,640,high,low,8,namesilo,,,18/09/2026 04:41
 73c60d81-b737-4c02-a463-353d8aba2b5c,muntjac.food,available,5.49,39.99,medium,low,7,namesilo,,,22/09/2026 06:28
+0a5d1c7b-81a1-44b6-b9cf-bb2843faf4c1,supplements.food,resell,,,high,low,11,,,,02/10/2026 14:12
 ce23dba4-b7e5-4116-9265-a56da434f3f5,cataloging.food,available,4.35,31.25,medium,low,10,spaceship,,,02/10/2026 02:32
 100ba3c8-50e2-46de-a689-c033e2c20a84,tin.food,premium,1107,1107,high,low,3,namesilo,,,28/09/2026 23:00
 9edc1a31-2858-4b6c-b07f-0a97e26cf9e4,threatening.food,available,4.35,31.25,medium,low,11,spaceship,,,01/10/2026 18:33
@@ -217,6 +235,8 @@ bc0c548a-1266-4489-b113-46fd129021b5,uhf.food,premium,302.5,302.5,high,low,3,nam
 a56c9f8c-b7af-4f49-85c8-cf3a948eb419,rending.food,available,4.98,48.98,medium,low,7,namecheap,,,09/09/2026 13:57
 be9ee783-75a9-493f-b102-9925733599b0,mahogany.food,premium,,,high,low,8,,,,01/10/2026 18:51
 3d5d6b3c-49db-4d4a-a89d-82ce1b33399b,numberless.food,available,4.98,48.98,high,low,10,namecheap,,,13/08/2026 03:42
+946a3887-e1a1-4bb8-b033-db50aadc8773,lse.food,premium,362.45,517.7,medium,low,3,spaceship,,,02/10/2026 10:00
+e4688855-32b2-4c8c-b255-71b894c879f9,nexus.food,premium,362.45,517.7,high,medium,5,spaceship,,,02/10/2026 15:58
 0c2b7027-d8ae-4477-ad69-4b17890774c6,maldon.food,available,5.49,39.99,medium,low,6,namesilo,,,22/09/2026 15:25
 641edc56-2270-4e34-8fa7-3c6527c0906d,footle.food,available,4.98,48.98,medium,low,6,namecheap,,,11/09/2026 08:27
 d6852699-2937-463d-9c05-0530ca60f35a,ces.food,premium,302.5,302.5,high,low,3,namesilo,,,29/09/2026 03:52
@@ -234,11 +254,13 @@ d7948c4d-444e-47b6-a574-42cfee5d9e6b,leslie.food,available,5.49,39.99,medium,low
 451e68ea-3c14-41b5-b592-cdf43fdac87f,hence.food,premium,72.65,103.7,medium,low,5,spaceship,,,28/09/2026 15:09
 b713a1b1-cc51-4b92-99fa-a289eb88a923,afs.food,premium,,,high,low,3,,,,02/10/2026 02:13
 9fb22004-3181-48f9-9374-7ad7d3ecd081,invest.food,premium,,,high,medium,6,,,,28/09/2026 02:00
+282d2da7-cc24-44b2-a594-fc517e47c26a,bebe.food,premium,362.45,517.7,high,low,4,spaceship,,,02/10/2026 20:47
 104bf951-0e7a-4822-8529-4f6251f39791,wards.food,premium,72.65,103.7,medium,low,5,spaceship,,,30/09/2026 06:54
 baf62204-615c-4779-b3b1-db05a51e7e0a,sanction.food,available,4.98,48.98,high,low,8,namecheap,,,03/09/2026 23:24
 74bf4138-c44d-40fd-86b3-f5cc7a2ce690,xinjiang.food,available,30.2,30.2,medium,low,8,cloudflare,,,28/09/2026 20:28
 62c38e9a-6b6b-42f8-ac1a-024085e4ed1f,mccauley.food,available,4.35,31.25,medium,low,8,spaceship,,,01/10/2026 02:59
 2ccefbc1-37dc-45ce-b06a-89b6a8db3ae3,mckinney.food,available,5.49,39.99,high,low,8,namesilo,,,28/09/2026 04:20
+554290dd-ddc4-4b17-9b18-aafe4624643b,psychedelic.food,premium,455,650,high,low,11,namecheap,,,03/10/2026 03:00
 0c34d3f1-499e-430a-afd8-b834dcf9cba3,jelled.food,available,4.98,48.98,medium,low,6,namecheap,,,12/08/2026 21:27
 60835247-c78b-4760-b42b-36bd22e49c1e,wastes.food,available,5.49,39.99,medium,low,6,namesilo,,,17/09/2026 07:45
 62aca011-acec-4969-91a2-bbfbfc53a3fb,boca.food,premium,302.5,302.5,high,low,4,namesilo,,,30/09/2026 05:21
@@ -246,6 +268,7 @@ baf62204-615c-4779-b3b1-db05a51e7e0a,sanction.food,available,4.98,48.98,high,low
 cba099a3-bb21-4290-acd7-933fe548e77b,contains.food,available,5.49,39.99,medium,low,8,namesilo,,,18/09/2026 15:08
 c1ae0e5a-da93-4f2a-907c-3159ed909e87,interfere.food,available,5.49,39.99,high,low,9,namesilo,,,28/09/2026 03:20
 d4ec8c81-0cfe-4fa8-bf58-962e5bb92948,ansi.food,premium,302.5,302.5,medium,low,4,namesilo,,,28/09/2026 11:47
+39e7f745-e391-4dfe-a9f2-b253dca0e462,rpm.food,premium,,,high,low,3,,,,02/10/2026 06:15
 7e0356a4-aac4-4e63-af81-6f6e4cb63396,stoneless.food,available,4.98,48.98,low,low,9,namecheap,,,10/09/2026 21:12
 61249aa1-44bb-455e-93df-36eba10de8db,bubonic.food,available,4.98,48.98,medium,low,7,namecheap,,,11/08/2026 07:26
 9c6d7b4b-3516-413c-9603-258805c9cbd8,burch.food,available,4.35,31.25,medium,low,5,spaceship,,,29/09/2026 15:48
@@ -259,15 +282,18 @@ b423d559-cf41-415a-9e36-aaaae94ae28d,corking.food,available,4.98,48.98,medium,lo
 f6a76ef7-06cb-42c3-ae37-d48b98a79e24,invasive.food,available,4.98,48.98,medium,low,8,namecheap,,,16/08/2026 23:54
 f4364123-3910-4b7f-899e-0ded7836e00c,pinnated.food,available,4.98,48.98,high,medium,8,namecheap,,,08/09/2026 19:49
 eefa0ae1-59e7-4b9e-8e98-603e9235f66b,revert.food,available,4.35,31.25,high,low,6,spaceship,,,01/10/2026 22:12
+46733cbd-4e06-4e34-b12c-82bb292a1728,selfemployed.food,available,4.98,48.98,high,low,13,namecheap,,,02/10/2026 13:54
 9bb0fa17-dbb0-49ef-8224-f2679ab99827,chimney.food,available,5.49,39.99,high,low,7,namesilo,,,29/09/2026 08:40
 55f17c6a-37da-446b-b8b1-6670b6d6c2a6,stay.food,premium,302.5,302.5,high,low,4,namesilo,,,24/09/2026 23:21
 5d3f1039-ff53-45e4-aa44-ee13cd50c637,slantwise.food,available,4.98,48.98,medium,low,9,namecheap,,,16/09/2026 02:22
 9249c8e3-b92b-441c-ac88-adfb2109a11b,han.food,premium,,,high,low,3,,,,28/09/2026 02:04
+149324ee-a451-4ed8-aadb-ca1f4c8a9356,sindhi.food,available,4.98,48.98,medium,low,6,namecheap,,,03/10/2026 02:06
 5f5b2985-4e92-4be3-a121-cdae6f36d067,tried.food,premium,98,140,high,low,5,namecheap,,,28/09/2026 02:21
 7e26be89-8580-4d6d-8d65-e26ebc71c134,exaggerate.food,available,4.35,31.25,high,low,10,spaceship,,,30/09/2026 19:19
 0c34a76b-6817-4e43-bd7b-e3c4dbd60c34,inland.food,premium,455,650,high,low,6,namecheap,,,22/08/2026 05:49
 48436b22-1760-4c78-b274-7522ea640a85,pecos.food,premium,72.65,103.7,medium,low,5,spaceship,,,29/09/2026 19:57
 17eae0ea-45d6-4aa5-8fa9-b7178664ba1a,drunkard.food,available,4.98,48.98,medium,low,8,namecheap,,,14/08/2026 20:21
+ece0b14d-d9da-4e50-9625-2f1668157c90,spooner.food,available,4.35,31.25,medium,low,7,spaceship,,,03/10/2026 03:54
 2e1abeb8-3396-42f8-a94e-c427a2bf87c9,initially.food,available,30.2,30.2,medium,low,9,cloudflare,,,28/09/2026 11:32
 e521a20e-595c-4b19-b679-12acfe2b6a78,seamed.food,available,4.98,48.98,medium,low,6,namecheap,,,10/09/2026 00:45
 0003b069-8c2f-49f5-9fed-775a383c288d,germanium.food,available,5.49,39.99,medium,low,9,namesilo,,,20/09/2026 22:51
@@ -282,6 +308,7 @@ d95a1971-90a1-4f48-b3c3-dbcc966fe47e,protean.food,available,4.98,48.98,high,low,
 df572053-8d4c-4e2e-98e6-51405ea3f8d8,scrutiny.food,available,5.49,39.99,high,low,8,namesilo,,,30/09/2026 01:34
 24cd21f4-4177-44e6-ba26-ababd3c5257f,deemed.food,available,5.49,39.99,high,low,6,namesilo,,,29/09/2026 23:04
 754115e0-f618-4b40-b58a-34d2235c6399,heuristics.food,available,5.49,39.99,medium,low,10,namesilo,,,02/10/2026 02:40
+10c93f2d-5717-4c36-b7e9-cab3a21a5ffb,wirt.food,available,5.49,39.99,high,low,4,namesilo,,,02/10/2026 08:49
 f8d22caa-7a4a-4b71-93e9-58e41219b0c8,allowance.food,available,4.35,31.25,high,low,9,spaceship,,,28/09/2026 20:37
 31a4cc7a-ff1a-4fd4-bbce-7bff55810673,kline.food,premium,,,high,medium,5,,,,28/09/2026 09:48
 16ffea7d-6f9e-4d04-9bca-6f0edede5e09,hemphill.food,available,5.49,39.99,medium,low,8,namesilo,,,01/10/2026 23:34
@@ -289,6 +316,7 @@ f8d22caa-7a4a-4b71-93e9-58e41219b0c8,allowance.food,available,4.35,31.25,high,lo
 2d89ec75-dabe-40d0-b0ba-c127be598b03,yolanda.food,available,4.98,48.98,medium,low,7,namecheap,,,30/09/2026 21:10
 8c76fbc2-733a-4b73-ab35-0018ee3b14a0,avalanche.food,premium,640,640,high,low,9,namesilo,,,21/09/2026 08:38
 c255f369-f94d-4cd1-bc18-93a0455f63cb,perceptual.food,available,4.98,48.98,high,low,10,namecheap,,,08/09/2026 16:15
+1ee33fc5-4f60-45bd-8372-1d551fadda0b,thorax.food,available,4.35,31.25,high,low,6,spaceship,,,02/10/2026 23:59
 f8a09dfb-44e7-4484-8514-9aee8e5ce20f,tempering.food,available,4.98,48.98,medium,low,9,namecheap,,,11/09/2026 10:56
 253269f1-3cd1-481a-859e-c8559dd30a9d,craggy.food,available,4.98,48.98,medium,low,6,namecheap,,,13/08/2026 04:44
 73ceedc6-5d75-4684-bef1-918e3fd62c6b,eine.food,available,30.2,30.2,medium,low,4,cloudflare,,,29/09/2026 22:17
@@ -304,6 +332,7 @@ a6d9fb91-d1ae-4770-a932-ffb30882d93a,honesty.food,available,4.98,48.98,high,low,
 07eb2115-9f87-4171-9257-b4da1202896c,passe.food,premium,91,130,medium,low,5,namecheap,,,14/08/2026 01:17
 503109c3-324a-406a-9fb4-a3d33ddfb4ec,pension.food,available,4.63,31.41,high,low,7,porkbun,,,28/09/2026 10:42
 c1af443d-3038-4f98-941c-2404c111261d,blemish.food,available,5.49,39.99,high,low,7,namesilo,,,24/09/2026 05:30
+fcf92f84-a48a-4276-9de7-836e3be74811,livorno.food,available,30.2,30.2,medium,low,7,cloudflare,,,03/10/2026 04:34
 b1d9c127-2f47-482e-b78b-6d63ee0761c3,atonic.food,available,4.98,48.98,low,low,6,namecheap,,,07/08/2026 13:54
 8bb8ba8a-f78c-4fa3-bd13-3de5927173d8,navy.food,premium,302.5,302.5,high,low,4,namesilo,,,29/09/2026 13:12
 da714051-0eb1-48fe-b167-4e158ddf4757,abducted.food,available,4.63,31.41,medium,low,8,porkbun,,,29/09/2026 05:02
@@ -318,6 +347,7 @@ bcfda050-90cb-499b-9cef-15930ebdd1b5,ctr.food,premium,640,640,high,low,3,namesil
 269c307c-afea-4286-8ae2-041b031bb2d1,workload.food,available,30.2,30.2,high,low,8,cloudflare,,,30/09/2026 03:09
 9529bd73-0de3-4ac0-a189-566bfa035ffd,mahler.food,available,4.35,31.25,medium,low,6,spaceship,,,29/09/2026 01:10
 00280a45-b97e-4590-ac10-cca580ccae71,potential.food,available,4.98,48.98,high,low,9,namecheap,,,27/09/2026 04:46
+5d416af7-b557-4a1e-9dd5-11ee9b2ac334,reggae.food,available,4.35,31.25,high,low,6,spaceship,,,02/10/2026 06:14
 13d57c41-af2b-4a5a-aa64-6277bd142175,jamie.food,premium,455,650,high,low,5,namecheap,,,25/09/2026 17:50
 a12e36e6-79c0-4df9-8d9e-f7a6736cae89,packaged.food,available,4.98,48.98,high,low,8,namecheap,,,04/09/2026 22:44
 240eb87f-60ae-443f-9c37-5fc1aab8c2d5,enticing.food,available,5.49,39.99,high,low,8,namesilo,,,22/09/2026 01:41
@@ -339,6 +369,7 @@ d9a17781-7744-4b91-931a-082fba44349c,pulmonic.food,available,4.98,48.98,high,med
 e4d58efc-8536-48f9-b798-dd4e88bb8eab,jesse.food,available,5.49,39.99,high,low,5,namesilo,,,25/09/2026 12:07
 a45f63f7-3090-4dd0-b531-d2b8f656b631,mcgovern.food,available,5.49,39.99,medium,low,8,namesilo,,,28/09/2026 08:53
 681d56f8-f9d7-49ff-a637-697021419a01,kilometers.food,available,4.99,32.32,medium,low,10,dynadot,,,28/09/2026 23:06
+909c2c8b-09c8-4451-a8cd-2423b5d20060,rouse.food,premium,640,640,high,low,5,namesilo,,,03/10/2026 02:26
 08e545e6-87bd-4aeb-916d-3cfd2097dd55,morrow.food,available,30.2,30.2,high,low,6,cloudflare,,,01/10/2026 20:41
 995b6fe2-bac1-4bc1-8211-873aedf9742f,jets.food,premium,1107,1107,high,low,4,namesilo,,,28/09/2026 12:04
 e2e6cca0-e82c-444f-a6b2-d58daef3ce74,prn.food,premium,910,1300,medium,low,3,namecheap,,,13/09/2026 21:26
@@ -348,17 +379,20 @@ e2e6cca0-e82c-444f-a6b2-d58daef3ce74,prn.food,premium,910,1300,medium,low,3,name
 377bdbe4-1c91-40fc-b5f4-3866de394f3c,veneto.food,available,4.35,31.25,high,low,6,spaceship,,,30/09/2026 11:16
 2ac4891a-b19f-4751-96cd-35d2d3b85460,theresa.food,available,4.98,48.98,high,low,7,namecheap,,,17/09/2026 18:43
 803e44d3-04bf-4f9c-a5a8-be66da608a4e,biopsy.food,available,4.98,48.98,high,low,6,namecheap,,,23/09/2026 18:55
+066935d3-6b64-44b2-ab96-247d44053086,synthesize.food,available,4.35,31.25,high,low,10,spaceship,,,02/10/2026 17:17
 69e10794-af18-42b4-8d7f-9cf44ffeba84,phantasma.food,available,4.98,48.98,high,low,9,namecheap,,,08/09/2026 18:38
 207a6866-83b1-4220-bf77-cbdc5c371be2,scripts.food,available,5.49,39.99,medium,low,7,namesilo,,,29/09/2026 05:41
 2f4de0ba-a7f4-4549-8881-4359805b6e86,doorbell.food,available,4.35,31.25,medium,low,8,spaceship,,,29/09/2026 22:59
 cf018081-a91f-45f1-b5d4-434bc554ebee,assembled.food,available,30.2,30.2,medium,low,9,cloudflare,,,28/09/2026 23:20
 86f1b23a-ee20-448d-a5c1-83a854a2dbcd,transitive.food,available,4.98,48.98,high,low,10,namecheap,,,11/09/2026 18:55
+e32333a9-7a89-4778-922e-23bf7b2ef863,heartland.food,premium,,,high,low,9,,,,02/10/2026 05:11
 512fc33f-dfdc-453b-9c7a-5792a899f74a,clapper.food,available,39.99,59.99,medium,low,7,name.com,,,19/09/2026 20:51
 31871acc-13e8-47fb-b794-6214a85e63ba,gyp.food,premium,910,1300,medium,low,3,namecheap,,,14/09/2026 08:05
 e3bb290b-9d68-4ecb-8c54-b046fb313eca,lancelot.food,available,4.35,31.25,high,low,8,spaceship,,,30/09/2026 17:50
 6d1332d9-b01b-42b5-9ece-a0b7ce68e392,objection.food,available,5.49,39.99,high,low,9,namesilo,,,25/09/2026 22:40
 236d67f2-3266-40c8-b72e-687210707135,tracey.food,available,4.98,48.98,medium,low,6,namecheap,,,28/09/2026 21:51
 0bf9bbfc-5f16-42fc-ac6c-676e906dd401,pathogenic.food,available,4.98,48.98,medium,low,10,namecheap,,,22/08/2026 04:17
+99bc8390-1cab-4768-9e68-e3223e16025a,locket.food,available,4.99,32.32,high,low,6,dynadot,,,03/10/2026 01:30
 66caddd5-6a17-4647-902a-caed81b7245a,alces.food,premium,116,116,high,low,5,namesilo,,,18/09/2026 03:55
 4ca5ea8a-20c6-4b2f-9bcb-f627cfa12fc5,pondering.food,available,4.98,48.98,high,low,9,namecheap,,,11/08/2026 06:01
 58262a14-925d-447b-a1a3-2295d042efbe,fifteen.food,premium,640,640,high,low,7,namesilo,,,21/09/2026 11:44
@@ -366,6 +400,7 @@ e3bb290b-9d68-4ecb-8c54-b046fb313eca,lancelot.food,available,4.35,31.25,high,low
 9c3b38e2-5a99-4e60-ae26-2c1b867854a5,lynch.food,available,4.98,48.98,medium,low,5,namecheap,,,28/09/2026 15:35
 8889e6e3-73b4-4250-8703-e911e05fdd70,kanagawa.food,available,30.2,30.2,medium,low,8,cloudflare,,,30/09/2026 05:13
 5ed14a97-d421-4a52-8fc9-120416edec00,rebuilding.food,available,4.63,31.41,high,low,10,porkbun,,,29/09/2026 20:09
+3eb6e4b2-066c-4697-a417-6ceddf87890e,terrestrial.food,available,30.2,30.2,high,low,11,cloudflare,,,03/10/2026 02:43
 d9bdee06-e4c4-4d69-b474-9369c2217390,palpebrate.food,available,4.98,48.98,medium,low,10,namecheap,,,05/09/2026 00:15
 8f4fb483-37e2-4d5c-a837-5058126fb8b9,sceptical.food,available,4.98,48.98,medium,low,9,namecheap,,,14/08/2026 09:36
 a9da9faa-4d3c-4880-93dc-9926a7771070,glabrous.food,available,4.98,48.98,medium,low,8,namecheap,,,19/08/2026 00:03
@@ -381,6 +416,7 @@ f836ff46-c59a-498c-8c8c-98ae7ba580cf,alkeran.food,available,5.49,39.99,medium,lo
 cd4e42c9-e743-4a48-853b-666d89943333,mayer.food,available,5.49,39.99,high,low,5,namesilo,,,25/09/2026 09:10
 6e09b1a2-92c0-4b75-a0c0-2e4e465dc32b,bandy.food,available,4.98,48.98,medium,low,5,namecheap,,,08/08/2026 11:45
 9c8b3231-ec31-4a51-be22-2d22905e71fe,johns.food,available,5.49,39.99,high,low,5,namesilo,,,29/09/2026 07:22
+2f93a0a1-7f6e-4cc4-9cb1-c431644f4cec,truckee.food,available,4.98,48.98,medium,low,7,namecheap,,,02/10/2026 20:55
 74a63666-2492-452f-9928-7741d0dee9b5,arbalist.food,available,5.49,39.99,medium,low,8,namesilo,,,20/09/2026 00:35
 0b6323aa-d274-4410-a40e-5f983fde9a19,elie.food,available,4.35,31.25,medium,low,4,spaceship,,,30/09/2026 20:32
 00af4e5c-b9cf-4954-b2b1-26e11392ce78,depict.food,available,4.35,31.25,high,low,6,spaceship,,,30/09/2026 19:11
@@ -389,6 +425,7 @@ cb9eb37a-3041-49ee-9f48-b6491bafb738,tna.food,premium,227.5,325,medium,low,3,nam
 74e4e3f2-d614-4902-80e6-f87c5daf9a06,forfeit.food,available,4.98,48.98,high,low,7,namecheap,,,12/08/2026 21:00
 65a6ed2f-a0c4-47dc-96c1-b3ab5856c772,mayne.food,available,4.99,32.32,high,low,5,dynadot,,,01/10/2026 07:26
 313fca65-b39b-435f-a456-2072e15ee472,toned.food,premium,91,130,high,low,5,namecheap,,,11/09/2026 17:02
+c9dc27ee-5aa6-4198-a9f9-8cc05404dedd,beecham.food,available,5.49,39.99,medium,low,7,namesilo,,,02/10/2026 23:11
 71a010e4-a85d-4193-a281-a06e49f43940,reflexive.food,available,4.98,48.98,high,medium,9,namecheap,,,09/09/2026 12:40
 80f7958b-9fa7-42bc-a8d7-e1d7ca36bdf3,noisy.food,premium,91,130,high,low,5,namecheap,,,03/09/2026 18:15
 c205746a-a07c-493c-9eb6-a54ec07438e9,poets.food,premium,72.65,103.7,medium,low,5,spaceship,,,28/09/2026 22:26
@@ -415,6 +452,7 @@ fac91ba2-0a61-42e0-b382-da19f2ec6323,anapurna.food,available,5.49,39.99,medium,l
 f4d7d7e0-ae21-4c16-92a5-e4e68b15f22e,homotopy.food,available,4.35,31.25,medium,low,8,spaceship,,,01/10/2026 01:08
 8a2581c4-2f3d-41bc-8c9a-06168b12dfe0,endemical.food,available,4.98,48.98,medium,low,9,namecheap,,,17/08/2026 00:53
 da5897f9-277c-4dfe-891e-8b6a26292c56,indanger.food,available,5.49,39.99,medium,low,9,namesilo,,,
+e897aa58-7f51-42be-b005-4daa6562bd0f,forecaster.food,available,4.35,31.25,high,low,10,spaceship,,,03/10/2026 00:49
 c8017907-6794-44bb-81b3-c351f7f62208,rotfl.food,available,5.49,39.99,medium,low,5,namesilo,,,
 464b4938-04f8-49f8-98f8-29e1b09915c7,anaxagoras.food,available,5.49,39.99,medium,low,10,namesilo,,,19/09/2026 03:36
 c388d4de-3a52-45db-bfb9-34e201f835cc,appetiser.food,available,4.98,48.98,high,low,9,namecheap,,,19/09/2026 20:48
@@ -423,6 +461,7 @@ c388d4de-3a52-45db-bfb9-34e201f835cc,appetiser.food,available,4.98,48.98,high,lo
 4bafd203-9d84-4a07-a20c-ec1f7552bf8a,flaps.food,premium,,,high,low,5,,,,30/09/2026 09:40
 d02c18f4-2c4d-47a9-b3f6-d163ab3a2d7f,tactic.food,premium,724.7,1035.2,high,low,6,spaceship,,,29/09/2026 07:31
 2c80ffbd-9737-4582-bc8d-71c82e008b12,abruzzi.food,available,5.49,39.99,medium,low,7,namesilo,,,16/09/2026 17:28
+32ac791c-4d41-45a6-8461-28455bc22a88,sketching.food,available,30.2,30.2,high,low,9,cloudflare,,,02/10/2026 07:35
 7dba748b-c5f8-41fd-bcc5-3990db6730a8,organismic.food,available,4.98,48.98,high,low,10,namecheap,,,04/09/2026 17:49
 db9b403f-b876-4996-9378-70f81ca25ef7,mounts.food,available,30.2,30.2,medium,low,6,cloudflare,,,01/10/2026 00:51
 4810bfab-520b-47a0-9e0e-8eabb8dc718d,seedy.food,premium,91,130,medium,low,5,namecheap,,,
@@ -433,6 +472,7 @@ dcf6cb0f-af4f-47c8-9b0d-bedbdea4174c,eccentric.food,available,4.98,48.98,high,lo
 114d439d-fe98-4db9-b98e-c9006ce594e6,sodomy.food,available,5.49,39.99,medium,low,6,namesilo,,,19/09/2026 01:34
 b06bc981-a114-4876-b2a8-e0ef574e7128,shaped.food,available,4.98,48.98,high,low,6,namecheap,,,25/08/2026 03:44
 b2a31220-fe60-4d1c-9681-e36ffbc021e5,development.food,available,4.35,31.25,high,low,11,spaceship,,,01/10/2026 02:46
+baae4716-a4cd-4090-92cb-976c6966893b,spengler.food,available,4.98,48.98,high,low,8,namecheap,,,03/10/2026 01:44
 2e3d09db-5e11-4f35-94e9-bfbcd3f1b2a5,balsam.food,premium,640,640,high,low,6,namesilo,,,22/09/2026 00:04
 e9a0e1ab-ff3c-4d84-b381-74974937dd0d,adrenaline.food,available,5.49,39.99,high,low,10,namesilo,,,17/09/2026 09:55
 6d25e1c8-3969-430b-bffe-0e8c4ffa1f71,subtitle.food,available,5.49,39.99,high,low,8,namesilo,,,30/09/2026 02:59
@@ -445,15 +485,18 @@ c05108f8-4532-44de-877d-ac18ce308ff7,provinces.food,available,4.98,48.98,medium,
 c6855230-4514-4bc4-9868-b0196e574c1b,redial.food,available,5.49,39.99,high,low,6,namesilo,,,16/09/2026 12:47
 b3e97a3b-6b36-42a8-a914-66cbe2e89bf8,disrespect.food,available,4.98,48.98,high,low,10,namecheap,,,29/09/2026 15:36
 de0d8dee-f110-4548-955b-1670637e8d99,weirdo.food,available,4.98,48.98,medium,low,6,namecheap,,,13/08/2026 05:38
+039f90bc-8df9-44d8-b8d8-abcc64ad0fbc,brunswick.food,premium,91,130,high,low,9,namecheap,,,02/10/2026 23:40
 e6e5bdcd-d4c7-4d49-a0a0-46b82dccd242,clitoris.food,available,5.49,39.99,high,low,8,namesilo,,,24/09/2026 15:48
 eacf99db-7328-4322-a8a9-28912deb5261,connection.food,premium,1100,1100,high,low,10,dynadot,,,01/10/2026 02:25
 80ae0cd1-ca9c-4dee-b553-5dbc4d440a1c,gaspar.food,available,30.2,30.2,high,low,6,cloudflare,,,29/09/2026 18:14
 dde93a31-cb22-4613-85b5-5952c65a5990,antelope.food,premium,640,640,high,low,8,namesilo,,,19/09/2026 12:50
+9137cf1f-7ce8-4e92-8c95-8526d438e767,workmen.food,available,5.49,39.99,medium,low,7,namesilo,,,02/10/2026 12:33
 24623fe7-1d42-4f40-a946-173c93330607,helpless.food,available,4.98,48.98,medium,low,8,namecheap,,,21/08/2026 06:38
 1734e2e0-500c-4a14-b71a-2d6d75b4182f,stunting.food,available,5.49,39.99,medium,low,8,namesilo,,,17/09/2026 12:54
 8cb06d6d-cab1-4740-9b07-f616d7cf5fee,beverley.food,available,4.98,48.98,medium,low,8,namecheap,,,29/09/2026 00:09
 6052a268-3362-41f9-bb23-20e0a1661b3a,sonja.food,available,4.35,31.25,medium,low,5,spaceship,,,01/10/2026 08:57
 4e5d0d6c-d749-495c-b81a-305b00400e1e,browse.food,premium,362.45,517.7,high,low,6,spaceship,,,29/09/2026 04:39
+2f2e0a3c-4d73-4dc9-8905-dafa55827a06,grieg.food,available,4.98,48.98,high,low,5,namecheap,,,03/10/2026 00:34
 7b3e82dc-433e-4c74-a6b5-dfa1cc111371,trivial.food,available,4.98,48.98,high,low,7,namecheap,,,24/09/2026 17:54
 09a50ef8-a5ae-4dc2-b8e2-2f30c37b77e7,company.food,premium,362.45,517.7,high,low,7,spaceship,,,01/10/2026 22:50
 ebfa373f-18ea-48ea-aa96-61d1f2950442,gong.food,premium,,,high,high,4,,,,30/09/2026 01:03
@@ -480,7 +523,7 @@ ccbe8799-62db-40e6-bb9b-d1b3a336a5e8,summit.food,premium,640,640,high,medium,6,n
 9779cbc4-f08f-4c31-94f6-e5a9ed100b02,folks.food,premium,116,116,high,low,5,namesilo,,,24/09/2026 16:34
 f94dccf7-3c84-48f8-a7e5-ed63e4195be3,insinuate.food,available,4.98,48.98,medium,low,9,namecheap,,,22/08/2026 08:35
 472a1875-fbed-4245-bc7d-9e200715f541,anxious.food,available,5.49,39.99,high,low,7,namesilo,,,27/09/2026 21:59
-a630e71a-d140-4c10-92bb-fc19211be6ff,technological.food,available,5.49,39.99,medium,low,13,namesilo,,,29/09/2026 02:31
+a630e71a-d140-4c10-92bb-fc19211be6ff,technological.food,available,4.63,31.41,high,low,13,porkbun,,,02/10/2026 10:35
 dfc53616-9583-4229-919b-58083ab07606,omdurman.food,premium,116,116,medium,low,8,namesilo,,,22/09/2026 15:32
 15a6f575-cf30-413d-bbff-7baeb313d7b3,doj.food,premium,302.5,302.5,medium,low,3,namesilo,,,29/09/2026 12:03
 9147d49d-d236-4513-baff-caaef30350b4,canorous.food,available,4.98,48.98,medium,low,8,namecheap,,,11/08/2026 17:35
@@ -550,12 +593,11 @@ fa89bffa-0189-4185-b85b-3cc453bd56b0,ruins.food,premium,,,low,low,5,,,,28/09/202
 ba7e6e5e-49e3-4d3e-8d6b-43543b80b3e0,lane.food,premium,245,350,high,low,4,namecheap,,,30/09/2026 02:05
 5ae069de-749e-474c-84bc-607f69352521,atypical.food,available,4.98,48.98,high,low,8,namecheap,,,07/08/2026 16:06
 c882f915-d918-4d74-9a4b-a445a66864e2,cxl.food,premium,227.5,325,high,low,3,namecheap,,,
-f8254bee-5eb6-4ae6-810e-5c43d37df969,philippines.food,available,,,high,high,11,,,,
 d959a4aa-8e3a-47ca-b50a-7ab431e345bf,stubborn.food,available,4.98,48.98,high,low,8,namecheap,,,25/09/2026 23:51
 bb2d8527-2939-416b-a164-5c072d415fec,scourge.food,available,4.98,48.98,medium,low,7,namecheap,,,18/08/2026 06:16
 5ffefd36-a7f8-4e41-832e-0c809a601c9b,belgian.food,available,,,medium,low,7,,,,
 3ed83eae-5984-4a22-8b32-f28a25095a7f,pelosi.food,available,4.35,31.25,medium,low,6,spaceship,,,02/10/2026 03:41
-80f6e7a8-47f2-448a-8dbe-d929e60ffbfa,canadas.food,available,39.99,,medium,low,7,name.com,,,
+80f6e7a8-47f2-448a-8dbe-d929e60ffbfa,canadas.food,available,4.35,31.25,medium,low,7,spaceship,,,03/10/2026 00:02
 c394e579-f0e6-4ad4-8509-0464e90b1c4b,comfort.food,premium,2660,2660,high,low,7,namesilo,,,24/09/2026 16:25
 701a40e7-2546-4749-9b3a-d51b13c5609c,column.food,available,5.49,39.99,high,low,6,namesilo,,,19/09/2026 04:50
 bac093e9-35f7-4f99-975b-15b8ac33adde,unharmed.food,available,4.98,48.98,high,low,8,namecheap,,,12/09/2026 12:00
@@ -564,12 +606,14 @@ b8f45150-7fd6-4ab2-8ebd-15bb4a4c96b9,fighting.food,available,4.98,48.98,high,low
 43414403-342e-4458-8c15-0848afcd862c,budge.food,premium,116,116,medium,low,5,namesilo,,,30/09/2026 16:30
 e8e06e3f-18f9-4b5f-b569-05ac2e295ae2,diner.food,premium,91,130,high,low,5,namecheap,,,29/09/2026 05:07
 16e56762-bfe6-446d-97c9-01591ba11cfa,notorious.food,available,4.98,48.98,high,low,9,namecheap,,,21/08/2026 19:05
+4488a97c-001d-4785-bd60-4294f5c77683,purdy.food,available,30.2,30.2,high,low,5,cloudflare,,,02/10/2026 21:41
 9a24101d-d968-49ff-84cd-ee16e4e2efe6,alcea.food,available,5.49,39.99,medium,low,5,namesilo,,,18/09/2026 03:52
 a46c7fb6-5a5e-4cbb-99e8-8fa5ad5e879a,debased.food,available,4.98,48.98,medium,low,7,namecheap,,,
 1ba4ecfa-5bab-4af7-b884-55a6fe2c5c58,ouachita.food,available,5.49,39.99,medium,low,8,namesilo,,,30/09/2026 10:40
 560975dc-3580-4412-b7c5-f918ade97926,orphic.food,available,4.98,48.98,medium,low,6,namecheap,,,03/09/2026 12:27
 252fcec8-6029-4e79-bac9-465e5115139c,leukemia.food,available,5.49,39.99,medium,low,8,namesilo,,,24/09/2026 11:59
 4c841318-c6d7-456b-b70f-b11f87f19d54,ledge.food,premium,116,116,high,low,5,namesilo,,,29/09/2026 01:33
+f94ff047-08d8-4bfa-b590-3a6aefd774f7,roa.food,premium,,,medium,low,3,,,,02/10/2026 22:07
 47af8d47-7911-4404-9bd7-45222f3df4c4,additional.food,available,5.49,39.99,high,low,10,namesilo,,,21/09/2026 17:14
 765cfc6a-2ef4-4746-bdd9-05066da260c0,hua.food,premium,302.5,302.5,high,low,3,namesilo,,,18/09/2026 01:18
 9e72a210-06dd-41b9-8f58-42d4e3df536a,tippytoe.food,available,4.98,48.98,medium,low,8,namecheap,,,11/09/2026 16:22
@@ -584,6 +628,7 @@ b00fcd7b-eb06-4a1a-b721-db63c2dc39dd,midwestern.food,available,4.98,48.98,high,l
 af9ade66-fc6b-4694-98a3-79ecb95bd921,commenced.food,available,5.49,39.99,medium,low,9,namesilo,,,02/10/2026 02:27
 32380bd7-d485-4eea-90ad-5fb5023587c6,cleanse.food,available,5.49,39.99,high,low,7,namesilo,,,01/10/2026 22:10
 2996dd69-b15a-4597-8803-9241332e4dbc,expansive.food,available,4.98,48.98,high,low,9,namecheap,,,17/08/2026 18:00
+61153e53-1661-4294-b23d-dff31fc4dca2,vaca.food,available,4.35,31.25,medium,low,4,spaceship,,,02/10/2026 22:00
 c06967dc-b303-4101-bce8-4e03192854c7,arccos.food,available,5.49,39.99,medium,low,6,namesilo,,,20/09/2026 01:15
 90f45a16-f933-43d9-9e4b-3e8098be14d3,sot.food,premium,910,1300,medium,low,3,namecheap,,,14/08/2026 20:22
 7fa65a61-9bf1-4a82-82bc-102792e531fa,contingent.food,available,5.49,39.99,high,low,10,namesilo,,,23/09/2026 22:07
@@ -599,12 +644,15 @@ aad2938b-67c2-45dc-a9d8-d99324e764eb,herrera.food,available,4.35,31.25,medium,lo
 08de45ed-4ccf-4a9c-82e7-55e2bad88547,acceptably.food,available,4.98,48.98,high,medium,10,namecheap,,,10/09/2026 12:55
 eff5e63d-a285-49e0-b926-6fdffbabb22f,wrecked.food,available,30.2,30.2,medium,low,7,cloudflare,,,28/09/2026 11:09
 ad0ab74d-14b0-42b6-aa34-ad55f8ee281c,indium.food,available,5.49,39.99,medium,low,6,namesilo,,,20/09/2026 23:11
+effb5499-cbea-44b9-a6e3-a7c22cb3b2ba,galesburg.food,available,4.35,31.25,medium,low,9,spaceship,,,02/10/2026 10:31
+f69a592e-916e-43f0-96a3-6808d11cafc2,chaser.food,available,5.49,39.99,high,low,6,namesilo,,,02/10/2026 23:58
 c2f60f6c-fcae-4496-822b-7c2fa1421a61,budgetary.food,available,4.98,48.98,medium,low,9,namecheap,,,11/08/2026 07:46
 bf835712-9677-46f9-8f70-3b2d9ad6b27e,qualify.food,available,4.99,32.32,high,low,7,dynadot,,,28/09/2026 06:57
 360cf48a-edff-4579-80ea-0f8576506c43,landowner.food,available,30.2,30.2,high,low,9,cloudflare,,,01/10/2026 02:50
 84229dfb-355d-4a7a-bcdf-30232bcb5ab9,hud.food,premium,910,1300,high,low,3,namecheap,,,01/10/2026 19:14
 dcb57a8f-a723-436e-9a44-9ea5583d7f59,joyfully.food,available,4.98,48.98,high,low,8,namecheap,,,14/09/2026 21:32
 149d35e3-da49-4192-9636-9efa1a4bd12e,amboy.food,available,4.98,48.98,medium,low,5,namecheap,,,29/09/2026 21:41
+7586cdc1-da09-46b5-b12d-b5bc6b1d6606,mohawk.food,available,5.49,39.99,high,low,6,namesilo,,,02/10/2026 05:47
 d77712c5-3034-46b5-8293-ed6beb8393d9,toast.food,premium,72.65,103.7,high,low,5,spaceship,,,29/09/2026 21:04
 b2f1fb55-a8df-47b2-a4cf-2d236f133380,basics.food,available,5.49,39.99,high,low,6,namesilo,,,29/09/2026 01:23
 fbd2a3e9-90cb-437c-9720-c18e97e54ac5,analog.food,available,4.98,48.98,high,low,6,namecheap,,,
@@ -615,6 +663,7 @@ fbd2a3e9-90cb-437c-9720-c18e97e54ac5,analog.food,available,4.98,48.98,high,low,6
 c8b5a531-9d6d-4f67-b164-b3351d773289,zoomed.food,available,5.49,39.99,medium,low,6,namesilo,,,18/09/2026 03:48
 5bd4f2ce-2daf-4a88-9cf6-c72225135bf9,orton.food,available,5.49,39.99,medium,low,5,namesilo,,,28/09/2026 08:09
 7442edbb-bee0-4b6e-8e64-1765f8ea0407,correction.food,available,30.2,30.2,medium,low,10,cloudflare,,,28/09/2026 09:23
+33f63ecd-8843-436e-a53d-76d1419fcac4,grievance.food,available,4.35,31.25,medium,low,9,spaceship,,,02/10/2026 05:07
 1be42136-27f0-4d98-afef-af743e384ea9,comm.food,premium,181.33,258.95,high,low,4,spaceship,,,01/10/2026 22:44
 63df42af-c9c7-4dca-bc65-53fecb04abad,alanine.food,available,5.49,39.99,high,low,7,namesilo,,,18/09/2026 01:50
 ba51eb0c-29b4-4eac-a559-44a918705bb2,abies.food,premium,116,116,high,low,5,namesilo,,,16/09/2026 15:38
@@ -628,6 +677,7 @@ be9c0ad3-8598-4417-bf1d-c1b10139da43,twits.food,premium,116,116,low,low,5,namesi
 cb7468b8-8446-417a-a121-98ea7dbc2462,becomes.food,available,5.49,39.99,medium,low,7,namesilo,,,27/09/2026 10:31
 274f8797-9acc-43ed-adf5-2fd50bd6f5c1,neat.food,premium,302.5,302.5,high,low,4,namesilo,,,22/09/2026 16:59
 0a053a7e-627c-4459-8dfd-d0c247bdcc96,xxxiv.food,available,4.98,48.98,medium,low,5,namecheap,,,
+d30f6e34-ef13-4dee-8924-2e0d2a660870,toda.food,premium,181.33,258.95,medium,low,4,spaceship,,,03/10/2026 02:16
 1c92ad1a-fee2-487a-8f54-44d8f3291186,affection.food,available,5.49,39.99,high,low,9,namesilo,,,17/09/2026 14:16
 f7fb027b-c029-4341-a16c-1fb4b230e6ca,adolescents.food,available,30.2,30.2,medium,low,11,cloudflare,,,02/10/2026 01:52
 10587fc8-3df0-4ad1-b583-7c1565adf01f,sein.food,available,4.63,31.41,high,low,4,porkbun,,,30/09/2026 19:18
@@ -639,29 +689,33 @@ f7fb027b-c029-4341-a16c-1fb4b230e6ca,adolescents.food,available,30.2,30.2,medium
 a3a36da7-28dd-46f9-a2f8-4fe7d326de00,unnerved.food,available,4.98,48.98,medium,low,8,namecheap,,,12/09/2026 15:54
 1a01ec0d-7ff3-428f-aeb4-ee069528e2dc,combed.food,available,4.98,48.98,medium,low,6,namecheap,,,12/08/2026 18:33
 8bba9cba-b88b-4fb1-93e8-1515b7ce3db1,gymnasium.food,available,5.49,39.99,high,low,9,namesilo,,,29/09/2026 01:11
+2af57213-1daf-4f11-a226-38cfef0445a9,evaluations.food,available,4.35,31.25,medium,low,11,spaceship,,,02/10/2026 14:20
 28f15725-8e1a-4d82-88d6-47b31ec095fa,muffle.food,available,39.99,59.99,medium,low,6,name.com,,,13/08/2026 16:49
 9fa3e8ac-a381-4d58-a581-4fa935d445f3,taxonomy.food,available,5.49,39.99,high,low,8,namesilo,,,30/09/2026 03:01
 c6425f3d-8e45-4072-95a1-2aff09b23d9a,cana.food,premium,181.33,258.95,high,low,4,spaceship,,,01/10/2026 23:47
 3d128bc9-e2c7-47b1-958c-776ee1e8e7fd,amulet.food,available,5.49,39.99,high,low,6,namesilo,,,19/09/2026 00:10
 cce8bd61-612d-4189-b904-235bdd38de9e,mixing.food,available,30.2,30.2,high,low,6,cloudflare,,,29/09/2026 10:24
+ae713d67-a827-48b9-9194-6ced39f8ad46,batchelor.food,available,5.49,39.99,medium,low,9,namesilo,,,02/10/2026 07:37
 8b59beed-a3b8-44be-993b-27eb8b73e386,cupidity.food,available,5.49,39.99,medium,low,8,namesilo,,,21/09/2026 08:48
 f2b3d48a-3134-4199-b703-2ef2fd94f229,otter.food,premium,72.65,103.7,high,low,5,spaceship,,,29/09/2026 19:52
 0a0974c0-9585-4cf2-baf4-cd0adcd43154,groggy.food,available,4.98,48.98,medium,low,6,namecheap,,,18/08/2026 09:53
+e4c767e9-c99b-465f-a3a2-5450cc88b300,holographic.food,available,4.99,32.32,high,low,11,dynadot,,,02/10/2026 07:25
 859412a1-5179-4d62-86b3-630d51e10cdd,rehearse.food,available,4.35,31.25,high,low,8,spaceship,,,01/10/2026 04:23
 97ec514d-ffc0-4428-b1f4-1a6fa9d3fe7a,periodic.food,available,4.98,48.98,medium,low,8,namecheap,,,08/09/2026 17:11
+508a7cf5-ebfc-465f-9cdc-3ad9af9feac9,wiggle.food,available,4.35,31.25,high,low,6,spaceship,,,02/10/2026 05:31
 42d026b8-b2b4-40b3-b146-d9e8f8a70b3c,sax.food,premium,1107,1107,high,low,3,namesilo,,,17/09/2026 09:36
 278d74b2-0876-4dd4-8bc6-6621de2d9129,grievous.food,available,4.98,48.98,medium,low,8,namecheap,,,07/08/2026 14:41
 6908c132-aa9b-4874-b926-7e319d89416c,wore.food,premium,245,350,medium,low,4,namecheap,,,
 6b6369cb-ce57-467a-a658-a3dfd663796c,doyle.food,available,5.49,39.99,high,low,5,namesilo,,,25/09/2026 12:42
 3c9910e0-ed31-4e3d-826b-a6f5908cf1d1,moonlike.food,available,4.98,48.98,medium,low,8,namecheap,,,25/08/2026 05:49
 d45dc28b-ab2b-4c0e-8b85-92d77ee44d88,trex.food,available,5.49,39.99,high,low,6,namesilo,,,18/09/2026 12:51
-606d643a-0e86-4ccc-9b14-84be2c482888,garden.food,premium,455,650,high,low,6,namecheap,,,30/09/2026 18:30
+606d643a-0e86-4ccc-9b14-84be2c482888,garden.food,premium,640,640,high,low,6,namesilo,,,02/10/2026 11:30
 3ea5dff1-4564-4554-930b-52a3d0ea50c0,stinking.food,available,4.98,48.98,medium,low,8,namecheap,,,13/08/2026 05:16
 e487c369-2738-4897-861a-6128f56592cc,leiden.food,available,5.49,39.99,high,low,6,namesilo,,,25/09/2026 23:25
 66c98834-e277-4787-bd61-9ed898ea88e5,groom.food,premium,116,116,high,low,5,namesilo,,,27/09/2026 12:02
 0bf206d7-1af3-4e67-80cc-faea8b38cdef,prosser.food,available,4.98,48.98,high,low,7,namecheap,,,30/09/2026 12:49
 6cedc2ec-f170-42c4-b869-8876339519f7,hatred.food,premium,724.7,1035.2,medium,low,6,spaceship,,,29/09/2026 22:18
-cd00a666-9ac7-4ebd-b685-91dda41e04e1,soil.food,premium,181.33,258.95,high,low,4,spaceship,,,28/09/2026 09:00
+cd00a666-9ac7-4ebd-b685-91dda41e04e1,soil.food,premium,181.33,258.95,high,low,4,spaceship,,,02/10/2026 13:07
 1492a518-0103-48ab-8ba4-a5cfab847424,trial.food,premium,550,550,high,low,5,dynadot,,,30/09/2026 13:04
 0c0016c7-8daa-43f0-91b2-5dd2bda9136b,extermination.food,available,5.49,39.99,medium,low,13,namesilo,,,29/09/2026 23:26
 51de1c49-f647-40f0-8646-16fe7459ef86,ascendancy.food,available,5.49,39.99,high,low,10,namesilo,,,20/09/2026 13:06
@@ -679,6 +733,7 @@ fa4fb0c5-526a-4bb6-9589-d332d7132a0e,athanasius.food,available,4.98,48.98,medium
 28a09af8-358f-4b2c-96e2-99947415cb84,walt.food,premium,227.5,325,high,low,4,namecheap,,,25/09/2026 12:09
 12827672-4b54-4f79-8d4b-c6b4119285f7,prentiss.food,available,4.99,32.32,medium,low,8,dynadot,,,30/09/2026 22:09
 6c92386b-2a4d-41b5-8ad1-a2cc40e9d4ee,sulawesi.food,available,5.49,39.99,medium,low,8,namesilo,,,30/09/2026 01:01
+c3c7d3ec-0193-4b3c-9cde-f34e7e97cc17,odin.food,premium,275,275,high,medium,4,dynadot,,,02/10/2026 16:14
 8edbe91c-544e-47bf-87f8-48589b02b47d,link.food,premium,1107,1107,high,medium,4,namesilo,,,29/09/2026 10:12
 ebc1e9f1-3d55-4447-bb54-023f7eb12bd6,puzzles.food,available,5.49,39.99,medium,low,7,namesilo,,,18/09/2026 10:35
 505c18ae-c794-41c0-8d0f-458c1cfba530,accidental.food,available,4.98,48.98,high,low,10,namecheap,,,
@@ -693,6 +748,7 @@ e130bcd8-af70-4e27-95e3-01594abae5be,conduit.food,premium,640,640,high,low,7,nam
 100fe685-a0fd-4817-9769-9e1c2a6fc43e,proving.food,available,4.63,31.41,high,low,7,porkbun,,,28/09/2026 11:26
 56071f59-d073-4236-a05b-5a21fba328a2,days.food,premium,181.33,258.95,high,low,4,spaceship,,,29/09/2026 13:20
 b89286ba-713d-47fd-b6a8-ba879124fec5,whichever.food,available,4.35,31.25,medium,low,9,spaceship,,,01/10/2026 05:05
+fb5e5b26-dbc9-4220-8406-fa5f0c15d9bc,pore.food,premium,181.33,258.95,high,low,4,spaceship,,,03/10/2026 00:48
 d54f761e-4c33-467f-8d40-09387a35794a,raiment.food,available,4.98,48.98,medium,low,7,namecheap,,,19/09/2026 19:57
 7868556b-da04-4ffc-992c-2df3f333c901,airedale.food,available,5.49,39.99,medium,low,8,namesilo,,,17/09/2026 23:08
 ad4b6c2f-e600-43bc-a84a-b4660ea04526,rave.food,premium,302.5,302.5,high,low,4,namesilo,,,29/09/2026 13:10
@@ -717,6 +773,7 @@ f13429a5-541a-40b7-8cbf-125f863a8b60,illustrator.food,available,5.49,39.99,high,
 0155fecc-19c4-421d-9517-c068a3132039,schoolwide.food,available,4.98,48.98,medium,low,10,namecheap,,,09/09/2026 23:18
 229582c0-6637-4e67-a6d4-72f450a49227,imbricate.food,available,4.98,48.98,medium,low,9,namecheap,,,21/08/2026 20:35
 454764e5-2647-4352-a692-863cffdc9cdd,fingerless.food,available,4.98,48.98,medium,low,10,namecheap,,,18/08/2026 04:55
+6ba68582-e632-4981-9293-bf23e0db3ebc,staining.food,available,5.49,39.99,medium,low,8,namesilo,,,03/10/2026 02:09
 8ec86a3a-fa10-4c75-a896-863b2359c032,brash.food,premium,455,650,medium,low,5,namecheap,,,11/08/2026 02:25
 01b14dcc-e2c8-4e77-b255-1c2df6a12c30,topping.food,available,4.98,48.98,high,low,7,namecheap,,,11/09/2026 17:36
 53bb237a-020e-40c7-9ddc-ae16bdbe473b,backward.food,available,5.49,39.99,high,low,8,namesilo,,,22/09/2026 15:53
@@ -727,6 +784,7 @@ f2a1bc62-4f3a-4a6d-8813-6ed3a8da5d0a,bather.food,available,4.98,48.98,medium,low
 128da71d-0046-4614-944b-e8a37547859c,gaur.food,premium,302.5,302.5,medium,low,4,namesilo,,,23/09/2026 13:04
 0962d6c6-daff-4827-bc9a-4ceb869f7a25,cochran.food,available,4.98,48.98,medium,low,7,namecheap,,,27/09/2026 12:38
 5bedbf04-dddb-4fa6-9ec3-249e2c36e4b7,dust.food,premium,227.5,325,high,low,4,namecheap,,,24/09/2026 21:05
+7f4a485b-9db5-410c-bfed-2c6481a61952,palestinians.food,available,4.99,32.32,medium,low,12,dynadot,,,02/10/2026 13:19
 a4243513-46ff-4d44-8dc5-8ed7ac28a063,jensen.food,available,5.49,39.99,high,low,6,namesilo,,,25/09/2026 07:58
 dd7de144-326b-48c1-a57a-77fe1763b978,asimina.food,available,5.49,39.99,medium,low,7,namesilo,,,20/09/2026 14:10
 8752b955-4421-41d3-8109-76e08d203cf9,ottoman.food,available,4.98,48.98,high,low,7,namecheap,,,04/09/2026 18:38
@@ -764,9 +822,11 @@ aaff15e7-e4d3-498c-9f77-47d50c690b9a,sufficient.food,available,5.49,39.99,high,l
 ba4d14d4-ca78-46bb-a0cb-077c74dc87df,buzzard.food,available,30.2,30.2,high,low,7,cloudflare,,,01/10/2026 18:52
 256fcb48-5f48-4e65-afca-ee932772713c,dynasty.food,available,4.99,32.32,high,low,7,dynadot,,,28/09/2026 13:57
 2c5b0f32-62e8-442e-ae9a-8cc7422e43ee,hapless.food,available,4.98,48.98,medium,low,7,namecheap,,,20/08/2026 23:48
+d5e07635-03d7-4698-ad2a-8c046a71273d,independents.food,available,30.2,30.2,medium,low,12,cloudflare,,,02/10/2026 22:51
 4487844e-b0d6-49eb-9acd-0e9289f38c1e,tan.food,premium,910,1300,high,low,3,namecheap,,,11/09/2026 07:50
 ba7660fa-ee00-4fe5-ba15-9b550bf421e2,retrospective.food,available,4.99,32.32,medium,low,13,dynadot,,,01/10/2026 22:37
 921cd876-52d0-4b13-a49a-f7285b424f60,acanthurus.food,available,,,medium,low,10,,,,16/09/2026 20:58
+e0ebf0e2-74da-48f2-8cef-d715936e913b,ange.food,available,4.35,31.25,medium,low,4,spaceship,,,03/10/2026 04:42
 023e1cef-2c86-49b2-8e1e-abddef5bbc29,occupational.food,available,4.35,31.25,medium,low,12,spaceship,,,29/09/2026 03:01
 920de4bb-bf4d-4a45-b7c7-c56f786b79c7,prestigious.food,available,30.2,30.2,high,low,11,cloudflare,,,29/09/2026 08:35
 e308e0b4-2aee-40fa-972e-1bb55bf1a0a7,braun.food,available,5.49,39.99,high,low,5,namesilo,,,25/09/2026 02:19
@@ -786,15 +846,19 @@ c1c51527-3136-4298-8f93-d1c268289969,mutualist.food,available,4.98,48.98,medium,
 9de534da-0cb5-4b8e-98d0-280cf35f4fb4,gannon.food,available,5.49,39.99,medium,low,6,namesilo,,,30/09/2026 13:54
 9aa90486-e63c-4f19-a8d6-a883e9027e30,fina.food,available,4.35,31.25,high,low,4,spaceship,,,29/09/2026 14:46
 31e5155d-e735-4794-852e-a01b59582a99,itch.food,premium,181.33,258.95,high,low,4,spaceship,,,29/09/2026 19:24
+abba186c-eea4-4ee8-8cba-db66ae8fa92a,san.food,premium,1107,1107,high,low,3,namesilo,,,02/10/2026 17:18
 a98abea8-95e6-4887-b9b1-31800cf97929,seeds.food,premium,98,140,high,low,5,namecheap,,,
 a6ad0274-e267-4a7f-84d2-df004cbcf199,finale.food,premium,640,640,high,low,6,namesilo,,,23/09/2026 14:46
+824832ab-6b88-43f5-a9c2-a74955da250b,spilling.food,available,4.35,31.25,high,low,8,spaceship,,,02/10/2026 13:21
 6b0890f7-4177-4092-a015-e701b1647ea4,macarthur.food,available,4.98,48.98,high,low,9,namecheap,,,25/09/2026 20:07
 59fb94f8-299a-421e-8f89-480709d68c10,hezbollah.food,available,5.49,39.99,medium,low,9,namesilo,,,29/09/2026 07:16
 c4300149-09b7-4684-82fc-116c34f1e504,dromedary.food,available,4.98,48.98,medium,low,9,namecheap,,,19/09/2026 23:32
 b77e581b-f41e-4e20-83d3-56225b75c2d7,guided.food,available,4.98,48.98,high,low,6,namecheap,,,20/08/2026 20:47
 f66187f9-da13-4368-87cd-94e55056ab8d,reputedly.food,available,4.98,48.98,medium,low,9,namecheap,,,15/09/2026 23:20
 d2e13603-bdb1-483a-8db2-70ab32a30fdb,edition.food,premium,362.45,517.7,high,low,7,spaceship,,,28/09/2026 01:49
+de080d32-51e8-4fcf-924c-f6d96124e827,clandestine.food,available,4.63,31.41,medium,low,11,porkbun,,,02/10/2026 17:35
 aa29cfdc-51e0-40ef-a1f1-3c5f5ae1fc6c,cloudberry.food,available,4.98,48.98,medium,low,10,namecheap,,,21/09/2026 20:03
+36484b4c-5ec2-47be-99bf-5a4265d46740,revisit.food,available,30.2,30.2,high,low,7,cloudflare,,,02/10/2026 17:16
 f221a976-2f5a-4b7b-b93e-c9c270dc8f13,feel.food,premium,275,275,high,low,4,dynadot,,,29/09/2026 19:07
 5ff5d2cf-1b58-42b4-9859-34e239a44dd9,eared.food,premium,91,130,medium,low,5,namecheap,,,14/08/2026 14:39
 9776c676-9eff-423d-bbeb-d620eace997c,approximately.food,available,5.49,39.99,medium,low,13,namesilo,,,27/09/2026 08:28
@@ -846,6 +910,7 @@ e288803a-c7d6-4508-8e96-acaf4b1e84a2,existent.food,available,4.98,48.98,medium,l
 54c91770-1b4c-4241-8484-e5bb745045e5,statistically.food,available,4.99,32.32,low,low,13,dynadot,,,29/09/2026 10:41
 e8ab71fc-1b62-4afd-8e0f-704ddb0595be,defensive.food,available,4.98,48.98,high,low,9,namecheap,,,13/08/2026 23:15
 afba9110-ec74-4b02-be8f-dfb0960f156f,cutters.food,available,30.2,30.2,medium,low,7,cloudflare,,,01/10/2026 18:41
+aebca8fd-ec80-4dd2-bd29-1ca6b617ecd2,batu.food,available,4.35,31.25,medium,low,4,spaceship,,,02/10/2026 18:53
 bba141df-89d6-49fb-9abd-341840fd96d7,declares.food,available,0.99,59.99,medium,low,8,godaddy,,,01/10/2026 00:10
 c8944adf-1828-4671-baaf-ce2a6cbd75d2,coxa.food,premium,302.5,302.5,high,low,4,namesilo,,,20/09/2026 11:23
 5d8fda6c-b2d4-4bc2-ac7c-447103d326b7,fall.food,premium,245,350,high,low,4,namecheap,,,28/09/2026 09:35
@@ -854,6 +919,7 @@ c7e905b8-e227-49cf-8238-059c09421222,lachrymose.food,available,4.98,48.98,medium
 95d043b1-1239-4c73-9843-227a424c3ace,lamps.food,premium,116,116,medium,low,5,namesilo,,,29/09/2026 11:04
 fb7e07da-2156-4b93-9ed2-182c97d328ff,pops.food,premium,302.5,302.5,high,low,4,namesilo,,,18/09/2026 21:55
 ae13572d-ee03-4c18-852c-ec65ced79a10,reasons.food,available,4.98,48.98,medium,low,7,namecheap,,,25/09/2026 20:13
+af72968c-f8a9-4b57-9429-d5b8098b6dac,blot.food,premium,273.44,273.44,high,low,4,porkbun,,,02/10/2026 23:36
 fb6722cb-7b77-40a2-b860-1efdb7a57473,syllable.food,available,4.35,31.25,high,low,8,spaceship,,,29/09/2026 20:27
 d05d77f1-58d7-4455-ae2f-f907db7cb72c,isobel.food,available,4.35,31.25,high,low,6,spaceship,,,01/10/2026 08:56
 e6ef132d-6b89-4052-bccd-44f1859140ef,lagrangian.food,available,4.98,48.98,high,low,10,namecheap,,,29/09/2026 14:39
@@ -861,6 +927,7 @@ f513f678-2e73-4efa-aed0-482a4a81716f,beginner.food,available,5.49,39.99,high,low
 c837b601-3314-47db-871d-d3533d56348a,ste.food,premium,640,640,high,low,3,namesilo,,,27/09/2026 07:49
 80c6f93e-3406-4f54-b1df-e9f6014fdaf0,section.food,available,4.98,48.98,high,low,7,namecheap,,,08/09/2026 06:07
 791986a5-4665-47c3-adad-6ab54ed7a90f,available.food,available,4.98,48.98,high,low,9,namecheap,,,22/09/2026 14:22
+e47d5143-f883-4c88-bb82-1ccb4b71f86a,smuggler.food,available,30.2,30.2,medium,low,8,cloudflare,,,03/10/2026 00:10
 530dd10e-dec3-4fa0-bc41-feaa17b2107b,mouthy.food,available,39.99,,medium,low,6,name.com,,,
 70bfca09-5d1c-43c4-8c12-14cbcc1b472f,lepanto.food,available,5.49,39.99,medium,low,7,namesilo,,,22/09/2026 15:21
 75754077-1cee-46a8-ba44-6d965f4766dd,accountability.food,available,5.49,39.99,high,low,14,namesilo,,,
@@ -896,6 +963,7 @@ a1731cdd-c784-463c-adff-dc2de05f8369,leaf.food,premium,640,640,high,low,4,namesi
 d591464b-f545-4862-bbdb-844d07bb800f,inglewood.food,available,4.99,32.32,medium,low,9,dynadot,,,30/09/2026 13:40
 ea1534b4-9de0-4288-b715-98cf22f3a5e3,monroe.food,premium,,,high,low,6,,,,28/09/2026 02:11
 91c7aecf-d8d7-4336-a19b-f69bfe7bb718,xmas.food,premium,1092.18,1092.18,high,low,4,porkbun,,,29/09/2026 09:09
+3f2ab864-753e-4748-b606-4e648ba8a8aa,rauch.food,premium,,,high,low,5,,,,02/10/2026 08:32
 c0815973-0a52-4fdb-881a-cac6499068ee,inquisition.food,available,5.49,39.99,medium,low,11,namesilo,,,01/10/2026 22:41
 8d441793-8b71-4a2c-b0be-b77f73b2ef6f,celebrating.food,available,5.49,39.99,high,low,11,namesilo,,,27/09/2026 06:50
 02fdc796-2f1e-4fc6-90f1-c51b413a747e,prayers.food,available,5.49,39.99,high,low,7,namesilo,,,18/09/2026 03:21
@@ -908,6 +976,7 @@ a7abaf20-dec4-44cd-8678-31776d8592a8,tbsp.food,premium,302.5,302.5,medium,low,4,
 44b08d22-29f2-40cf-8546-fb52f74500f8,trip.food,premium,227.5,325,high,low,4,namecheap,,,08/09/2026 04:57
 f2bc537e-a626-44bc-a803-897cb39ef990,presented.food,available,4.99,32.32,medium,low,9,dynadot,,,28/09/2026 08:35
 c4380ee5-ffe3-4348-8cad-5c17ff7d8b4d,earthbound.food,available,4.98,48.98,high,low,10,namecheap,,,14/08/2026 22:37
+70077347-e3ef-43ba-80de-afc409cd5c39,consultancy.food,available,5.49,39.99,high,low,11,namesilo,,,02/10/2026 21:46
 8792cce8-6ad6-493f-89f3-aa1b6f2599e1,adjustable.food,available,4.98,48.98,high,low,10,namecheap,,,21/09/2026 18:40
 6855af8d-781f-47bd-87e3-af91022763ad,johansson.food,available,4.35,31.25,medium,low,9,spaceship,,,29/09/2026 03:51
 1b33143e-d7dc-46ce-8bcb-08f68a589031,lottery.food,premium,980,1400,high,low,7,namecheap,,,30/09/2026 03:22
@@ -930,72 +999,3 @@ a8e19441-7e7a-465e-957c-f91067ac120d,monistic.food,available,4.98,48.98,medium,l
 9c677799-630c-42c8-9ac0-42d23eb7a12b,salvific.food,available,4.98,48.98,high,medium,8,namecheap,,,09/09/2026 21:03
 482e88f3-e4e5-41be-a456-115c78d5c222,kilmarnock.food,available,4.98,48.98,high,low,10,namecheap,,,01/10/2026 07:24
 c35cd7d1-6dd3-4213-83d4-54809126aa02,stadium.food,premium,362.45,517.7,high,low,7,spaceship,,,28/09/2026 03:07
-ae657dbe-d269-420d-b86f-0ae9ad5dd96a,entry.food,premium,91,130,high,low,5,namecheap,,,08/09/2026 09:43
-3101df03-b215-45e4-8457-3b2c38669694,jim.food,premium,490,700,high,low,3,namecheap,,,
-b6f0abcf-1173-4be1-9ffd-ba537f47bcaf,esl.food,premium,640,640,high,low,3,namesilo,,,29/09/2026 23:53
-b8dc5d82-b189-4f21-9c34-a52ed0b828a0,dangerous.food,available,39.99,59.99,medium,low,9,name.com,,,13/08/2026 17:15
-447bc8ca-fab6-408a-89f0-0cbc075d74e4,weekends.food,available,5.49,39.99,high,low,8,namesilo,,,20/09/2026 22:23
-43f1b54b-66bb-41a0-888f-62177c0c8b8f,isu.food,premium,181.33,258.95,high,low,3,spaceship,,,29/09/2026 21:42
-b7a7555c-8e37-4a8d-a6fa-d4369f1f28c1,bot.food,premium,724.7,1035.2,high,medium,3,spaceship,,,30/09/2026 20:55
-c8da5924-549a-46ee-90ff-1cf7e41cc9fd,modeled.food,available,4.98,48.98,medium,low,7,namecheap,,,25/08/2026 02:51
-f9f6ad08-9d0f-47de-be94-6a68a871dd68,toroidal.food,available,4.98,48.98,medium,low,8,namecheap,,,11/09/2026 17:55
-f974fcc2-064f-4b6a-9a38-258f324b11f8,lacing.food,available,4.98,48.98,medium,low,6,namecheap,,,13/09/2026 11:13
-c3ffeeb1-e683-4b3d-b8a6-31514b0a3193,stroll.food,available,5.49,39.99,high,low,6,namesilo,,,18/09/2026 16:59
-2f554b19-17ec-4a88-83cd-e470983893e7,voigt.food,available,30.2,30.2,high,low,5,cloudflare,,,02/10/2026 00:35
-2f839e87-7086-46a1-841a-f0316150c08b,suns.food,premium,640,640,high,low,4,namesilo,,,30/09/2026 22:24
-7ae2b9a3-1f3b-4276-929e-00fb1bf5c599,announcements.food,available,4.35,31.25,low,low,13,spaceship,,,30/09/2026 06:45
-1f7205fe-053f-4127-ad5e-f705229befe7,goldie.food,available,5.49,39.99,high,low,6,namesilo,,,01/10/2026 06:46
-c03f7728-b4a0-4c41-b2ee-69e283c69193,athletic.food,available,5.49,39.99,high,low,8,namesilo,,,21/09/2026 16:12
-8217459f-baef-4152-8795-6ac4f8b8c4c9,disheveled.food,available,4.98,48.98,medium,low,10,namecheap,,,14/08/2026 10:56
-b0706b44-d202-4ec0-8169-001d7bc15f78,publicist.food,available,4.63,31.41,high,low,9,porkbun,,,30/09/2026 10:55
-15c3b2ca-4abe-4d48-9bfe-313fa64e6e99,walking.food,available,4.35,31.25,high,low,7,spaceship,,,28/09/2026 10:16
-99ee222c-f52c-450e-bc56-ed44ded7a91d,tawny.food,premium,91,130,high,low,5,namecheap,,,11/09/2026 09:19
-201e021d-2e2c-496c-8a6d-b9e0079da625,strident.food,available,4.98,48.98,medium,low,8,namecheap,,,12/08/2026 09:19
-ef7d392c-b9d6-4e89-bbac-3eff14bbdbe6,exercised.food,available,4.35,31.25,high,low,9,spaceship,,,30/09/2026 11:52
-cebc4536-5ffc-4ca2-b324-8405b6083fbe,ashen.food,premium,91,130,medium,low,5,namecheap,,,07/08/2026 02:09
-77627ae8-a89f-40bc-8473-f9fff01eff11,similarities.food,available,5.49,39.99,medium,low,12,namesilo,,,30/09/2026 06:01
-817fc83b-5323-4900-a009-334df82ff429,kennel.food,available,4.35,31.25,high,low,6,spaceship,,,01/10/2026 19:15
-1beb1570-3ffe-4117-9017-6a70885dea9e,shutter.food,available,5.49,39.99,high,low,7,namesilo,,,30/09/2026 02:51
-9c829d57-9ec5-4afd-8bbf-f1804c70328d,capt.food,available,5.49,39.99,high,low,4,namesilo,,,25/09/2026 12:23
-31231fd7-ddf7-4caf-9bec-2484e8200d57,blowhard.food,available,4.98,48.98,medium,low,8,namecheap,,,11/08/2026 01:19
-f6baf0e8-e48e-4e89-8ca3-5fd63537dfa2,glare.food,premium,116,116,high,low,5,namesilo,,,24/09/2026 10:22
-937260df-aae9-4122-acbe-1f130bbcd5a6,straggling.food,available,4.98,48.98,high,medium,10,namecheap,,,09/09/2026 10:03
-bb42af9a-b521-4ab4-bda6-29e2210dff50,malawian.food,available,4.98,48.98,medium,low,8,namecheap,,,24/08/2026 13:40
-b3c1362e-34a2-4bfa-9fa9-255ae0cd80c9,neither.food,available,4.98,48.98,medium,low,7,namecheap,,,03/09/2026 15:18
-4d85775d-d2df-4bdf-8a4d-a84a6496d0d5,choler.food,available,5.49,39.99,medium,low,6,namesilo,,,19/09/2026 06:04
-3726710c-9d5d-4240-a6a8-1216dbc784fe,sunup.food,premium,91,130,high,low,5,namecheap,,,11/09/2026 02:09
-a60a4921-c4e1-4b52-999e-7b2c24467b72,finical.food,available,4.98,48.98,medium,low,7,namecheap,,,18/08/2026 04:56
-59426a24-edbf-4642-b948-d420012a45f5,alehouse.food,available,4.98,48.98,medium,low,8,namecheap,,,18/09/2026 05:01
-b15cf8c6-0000-4fcb-be26-03c419bf0f6e,weasel.food,available,4.35,31.25,high,low,6,spaceship,,,29/09/2026 08:19
-e245204a-c124-4cad-9117-584dd4513e1b,chaves.food,available,5.49,39.99,medium,low,6,namesilo,,,02/10/2026 00:42
-ce96911b-aa94-4949-ac62-5d239a9cf22a,shodden.food,available,4.98,48.98,high,medium,7,namecheap,,,10/09/2026 06:42
-faf0eccb-93af-4b16-817b-ed03058408c6,absorbency.food,available,4.98,48.98,medium,low,10,namecheap,,,16/09/2026 18:15
-15a71ab5-7aee-4258-8531-31a18ade3f2b,handkerchief.food,available,30.2,30.2,high,low,12,cloudflare,,,30/09/2026 06:03
-9e83c76d-6bdb-4657-9c2b-283b796a35c7,contrary.food,available,5.49,39.99,high,low,8,namesilo,,,23/09/2026 22:29
-a8165851-33f2-4f5b-a438-e6b8de6d7aba,trivia.food,available,4.35,31.25,high,low,6,spaceship,,,01/10/2026 21:43
-6b33d338-4c5e-4243-8bf1-aee968429de8,acidic.food,available,4.98,48.98,high,low,6,namecheap,,,
-54af50ad-3a90-44b1-a9c0-42629cb8b19d,berceuse.food,available,4.98,48.98,high,low,8,namecheap,,,23/09/2026 09:10
-b408992b-2ed0-4312-b839-1e05cfc1b52f,sorrel.food,available,4.98,48.98,medium,low,6,namecheap,,,11/08/2026 06:31
-295dbe45-3dde-4cce-a8ef-fb7fa857df60,roundish.food,available,4.98,48.98,high,medium,8,namecheap,,,09/09/2026 19:04
-961039ac-4f6a-4216-be9d-f4bfb1f6c281,bouncy.food,premium,640,640,high,low,6,namesilo,,,23/09/2026 01:24
-231a3244-76ce-440a-9710-be652dbda972,newcomer.food,available,4.98,48.98,high,low,8,namecheap,,,18/08/2026 07:31
-0502ab83-140b-4d42-954c-33c611768892,sported.food,available,4.98,48.98,medium,low,7,namecheap,,,20/09/2026 16:50
-01485482-452f-4a8d-854e-2a420b45269d,reassigned.food,available,5.49,39.99,medium,low,10,namesilo,,,30/09/2026 16:25
-f07b9575-1f1e-47f3-8bf1-74f606ed56f4,quelled.food,available,4.98,48.98,medium,low,7,namecheap,,,09/09/2026 08:24
-245f821b-7808-467b-91a7-7ee1943cef75,shelled.food,available,4.98,48.98,high,medium,7,namecheap,,,10/09/2026 06:25
-92c95c83-343d-47d4-ac2c-d3a330d4f0f8,sullen.food,available,4.98,48.98,medium,low,6,namecheap,,,20/08/2026 15:06
-aada2428-4170-48af-8aaf-eab909770284,alight.food,available,4.98,48.98,high,low,6,namecheap,,,
-e4934512-9704-43df-b699-44cc988945e1,eject.food,premium,109.69,109.69,high,low,5,porkbun,,,01/10/2026 03:53
-b24d182f-143d-41a2-ba87-e05552c93ef0,sevenup.food,premium,362.45,517.7,high,low,8,spaceship,,,30/09/2026 06:05
-73968f49-a10c-4a5f-9dc0-0c2c9263bef5,bankrupt.food,available,4.98,48.98,medium,low,8,namecheap,,,08/08/2026 13:29
-0410b672-e449-4aae-a07d-8e33abb7804a,meant.food,premium,116,116,medium,low,5,namesilo,,,25/09/2026 16:51
-40507df5-2f16-4c7d-90a2-cfa7d80fc08b,unyielding.food,available,4.98,48.98,high,low,10,namecheap,,,14/08/2026 15:01
-453a602e-f5a5-43fc-87be-5bb3c7f77d53,decoration.food,available,4.98,48.98,high,low,10,namecheap,,,28/09/2026 18:55
-eb46d11e-664a-4125-ae58-e29b9b1bb114,intimidation.food,available,4.35,31.25,medium,low,12,spaceship,,,30/09/2026 06:21
-b9bd7390-7f84-4c74-bb0d-9ca4858e070d,abnormal.food,available,5.49,39.99,high,low,8,namesilo,,,21/09/2026 14:04
-590048a3-9519-43e3-b59d-142bd07dd3f3,amundsen.food,available,5.49,39.99,medium,low,8,namesilo,,,19/09/2026 00:12
-b5c0a998-8f0f-4240-972e-3e61f4090dd8,ocs.food,premium,1100,1100,high,low,3,dynadot,,,30/09/2026 13:05
-7088b19d-7f97-4ec9-82a0-f207ba659838,barely.food,available,4.99,32.32,medium,low,6,dynadot,,,27/09/2026 18:14
-5a9e3cd6-c071-45ba-9769-167e3f755b3d,vat.food,premium,455,650,high,low,3,namecheap,,,17/09/2026 05:53
-e11db2a1-c69f-42f6-87b2-aea4708da665,flashing.food,available,30.2,30.2,medium,low,8,cloudflare,,,28/09/2026 19:14
-964c2404-1580-438c-bd70-87bddbfacabb,bluegrass.food,available,30.2,30.2,high,low,9,cloudflare,,,02/10/2026 04:05
